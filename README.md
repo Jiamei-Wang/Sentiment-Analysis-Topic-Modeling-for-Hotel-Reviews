@@ -8,6 +8,7 @@ Web Scraping, Sentiment Analysis, Latent Dirichlet Allocation (LDA) topic modell
 3. [Data Description](#Data-Description)
 4. [Methodologies](#Methodologies)
 5. [Results](#Results)
+6. [Blog Post](#Blog-Post)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
