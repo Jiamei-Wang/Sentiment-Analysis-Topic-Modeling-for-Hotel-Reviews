@@ -42,3 +42,6 @@ The scraped data are stored under 3 dataframes:
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
 All the visualizations provided in the exploratory data analysis as well as the pyLDAvis interactive visualization would help the hotel manager to further understand what most popular topics within the negative reviews are and make improvements accordingly.
 
+## Blog Post
+If you are interested in reading my blog post about this project, please visit [Medium](https://medium.com/@jwbusiness123/sentiment-analysis-topic-modeling-for-hotel-reviews-6b83653f5b08?sk=6bb2c73a2cfc5045ae528c9a5e823ceb)
+
