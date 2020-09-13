@@ -38,7 +38,7 @@ The scraped data are stored under 3 dataframes:
    * Sentiment Analysis
    * Latent Dirichlet Allocation (LDA) topic modelling
 
-## Reseults
+## Results
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
 All the visualizations provided in the exploratory data analysis as well as the pyLDAvis interactive visualization would help the hotel manager to further understand what most popular topics within the negative reviews are and make improvements accordingly.
 
