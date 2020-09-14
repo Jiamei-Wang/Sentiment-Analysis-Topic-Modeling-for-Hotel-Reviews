@@ -33,15 +33,24 @@ The scraped data are stored under 3 dataframes:
 
 ## Methodologies
 1) Web Scraping
+
 The hotel reviews were scraped from bookings.com by using requests with BeautifulSoup. 
+
 2) Exploratory Data Analysis (EDA)
+
 This part contais a pie chart, a histogram, and a seaborn violin plot to get a better understanding of the overall reviews and ratings.
+
 3) WordClouds
+
 In order to generate more meaningful WordClouds, I customized extra stop words and used lemmatization to remove closely redundant words.
+
 4) Sentiment Analysis
+
 The sentiment analysis helps to classify the polarity and subjectivity of the overall reviews and determine whether the expressed opinion in the reviews is mostly positive, negative, or neutral.
+
 5) LDA Topic Model
-I used GridSearch to tune the parameters: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate) of the LDA model. I used the LDA model to extract the main topics within the negative reviews so that the hotel manager would know what the main issues are.
+
+I used GridSearch to find the best topic model. The two tuning parameters are: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate)
 
 ## Results
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
