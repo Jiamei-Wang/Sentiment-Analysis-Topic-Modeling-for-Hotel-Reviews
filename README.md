@@ -49,7 +49,7 @@ The scraped data are stored under 3 dataframes:
     * Review Date
     * Review Tags (Trip type, such as business trip, leisure trip, etc.)
 2) **pos_reviews**: Positive reviews
-3) **neg_reviews**: egative reviews
+3) **neg_reviews**: Negative reviews
 
 ## Results
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
