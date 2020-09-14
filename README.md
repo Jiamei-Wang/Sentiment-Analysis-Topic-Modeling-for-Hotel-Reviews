@@ -4,32 +4,21 @@ Web Scraping, Sentiment Analysis, Latent Dirichlet Allocation (LDA) topic modell
 ## Table of Contents
 
 1. [Installation](#Installation)
-2. [Project Motivation](#Project-Motivation)
-3. [Data Description](#Data-Description)
+2. [Project Overview](#Project-Overview)
+3. [Problem Statement](#Problem-Statement)
 4. [Methodologies](#Methodologies)
-5. [Results](#Results)
-6. [Blog Post](#Blog-Post)
+5. [Data Description](#Data-Description)
+6. [Results](#Results)
+7. [Blog Post](#Blog-Post)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
 
-## Project Motivation
-The project goal is to use text analytics and Natural Language Processing (NLP) to analyze hotel reviews and to help the hotel to identify factors that influence guest satisfactions.
+## Project Overview
+In this project, I scraped hotel reviews of “Hotel Beresford” located in San Francisco, CA from the website bookings.com. Then, I did some data exploration, generated WordClouds, performed sentiment analysis and created an LDA topic model
 
-## Data Description
-I scraped reviews of "Hotel Beresford" (located in San Francisco, CA) from booking.com. The link of the hotel's review page is https://www.booking.com/reviews/us/hotel/beresford.html?
-
-The scraped data are stored under 3 dataframes:
-1) **reviewer_info**: Basic information of the reviewer and reviews:
-    * Rating Score
-    * Reviewer Name
-    * Reviewer's Nationality
-    * Overall Review (contains both positive & negative reviews)
-    * Reviewer Reviewed Times
-    * Review Date
-    * Review Tags (Trip type, such as business trip, leisure trip, etc.)
-2) **pos_reviews**Positive reviews
-3) **neg_reviews**egative reviews
+## Problem Statement
+The project goal is to use text analytics and Natural Language Processing (NLP) to extract actionable insights from the reviews and help the hotel improve their guest satisfactions.
 
 ## Methodologies
 1) Web Scraping
@@ -50,7 +39,22 @@ The sentiment analysis helps to classify the polarity and subjectivity of the ov
 
 5) LDA Topic Model
 
-I used GridSearch to find the best topic model. The two tuning parameters are: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate)
+In natural language processing, the latent Dirichlet allocation is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. I used GridSearch to find the best topic model. The two tuning parameters are: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate)
+
+## Data Description
+I scraped reviews of "Hotel Beresford" (located in San Francisco, CA) from booking.com. The link of the hotel's review page is https://www.booking.com/reviews/us/hotel/beresford.html?
+
+The scraped data are stored under 3 dataframes:
+1) **reviewer_info**: Basic information of the reviewer and reviews:
+    * Rating Score
+    * Reviewer Name
+    * Reviewer's Nationality
+    * Overall Review (contains both positive & negative reviews)
+    * Reviewer Reviewed Times
+    * Review Date
+    * Review Tags (Trip type, such as business trip, leisure trip, etc.)
+2) **pos_reviews**Positive reviews
+3) **neg_reviews**egative reviews
 
 ## Results
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
