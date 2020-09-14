@@ -21,28 +21,23 @@ In this project, I scraped hotel reviews of “Hotel Beresford” located in San
 The project goal is to use text analytics and Natural Language Processing (NLP) to extract actionable insights from the reviews and help the hotel improve their guest satisfactions.
 
 ## Methodologies
-1) **Web Scraping**
-
+1) **Web Scraping:**
 The hotel reviews were scraped from bookings.com by using requests with BeautifulSoup. 
 
-2) **Exploratory Data Analysis (EDA)**
-
+2) **Exploratory Data Analysis (EDA):**
 This part contais a pie chart, a histogram, and a seaborn violin plot to get a better understanding of the overall reviews and ratings.
 
-3) **WordClouds**
-
+3) **WordClouds:**
 In order to generate more meaningful WordClouds, I customized extra stop words and used lemmatization to remove closely redundant words.
 
-4) **Sentiment Analysis**
-
+4) **Sentiment Analysis:**
 The sentiment analysis helps to classify the polarity and subjectivity of the overall reviews and determine whether the expressed opinion in the reviews is mostly positive, negative, or neutral.
 
-5) **LDA Topic Model**
-
+5) **LDA Topic Model:**
 In natural language processing, the latent Dirichlet allocation is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. I used GridSearch to find the best topic model. The two tuning parameters are: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate)
 
 ## Data Description
-I scraped reviews of "Hotel Beresford" (located in San Francisco, CA) from booking.com. The link of the hotel's review page is https://www.booking.com/reviews/us/hotel/beresford.html?
+I scraped the data from the hotel review page: https://www.booking.com/reviews/us/hotel/beresford.html?
 
 The scraped data are stored under 3 dataframes:
 1) **reviewer_info**: Basic information of the reviewer and reviews:
