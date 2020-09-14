@@ -1,0 +1,1031 @@
+,Rating,Name,Country,Overall_review,Review_times,Review_date,Review_tags,Subjectivity,Polarity,Analysis
+0,8.0,Ryan,United Kingdom,Very Good,2,2020-04-27,"Leisure trip, Solo traveler, Queen Room, Stayed 6 nights",0.7800000000000001,0.9099999999999999,Positive
+1,7.0,Myth,United States of America,Old but great location!,2,2020-04-07,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.475,0.55,Positive
+2,6.0,Mandy,New Zealand,Good value for money and great for one night’s stay.,20,2020-03-24,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.675,0.75,Positive
+3,6.0,Twyford,United Kingdom,Old hotel with small rooms and old decor. inclusive breakfast not worth having! would not stay there,7,2020-03-21,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights",0.225,-0.059375,Negative
+4,8.0,Eric,United States of America,Very Good,1,2020-03-21,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+5,8.0,Kathleen,Australia,Fun times. Great memories.,2,2020-03-18,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.475,0.55,Positive
+6,7.0,Tod,United States of America,Great.,1,2020-03-14,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.75,0.8,Positive
+7,6.0,Lyn,New Zealand,Pleasant,9,2020-03-12,"Business trip, Solo traveler, Queen Room, Stayed 5 nights",0.9666666666666667,0.7333333333333333,Positive
+8,7.0,Kelly,United States of America,"Great location, unfriendly staff.",6,2020-03-12,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.75,0.8,Positive
+9,7.0,Luis,United States of America,"Nice, But Old",1,2020-03-12,"Leisure trip, Solo traveler, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6,0.35,Positive
+10,8.0,Lukasz,Poland,Very Good,84,2020-03-11,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+11,7.0,Mary,United States of America,Jusr ok,1,2020-03-11,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+12,8.0,Jana,Canada,Very Good,1,2020-03-10,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+13,7.0,Debstertravel,Netherlands,"Decent hotel, very centrally located.",9,2020-03-06,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.49583333333333335,0.08333333333333333,Positive
+14,6.0,Mark,United States of America,Pleasant,2,2020-03-06,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.9666666666666667,0.7333333333333333,Positive
+15,8.0,Susan,United Kingdom,I would definitely recommend the hotel to anyone.,1,2020-03-05,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 7 nights",0.5,0.0,Neutral
+16,7.0,Trevor,United Kingdom,Great location at the right price,3,2020-03-03,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 6 nights",0.6428571428571428,0.5428571428571429,Positive
+17,8.0,Caroline,United States of America,Comfortable stay,10,2020-03-02,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.8,0.4,Positive
+18,7.5,Azusa,Japan,Good,1,2020-03-02,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+19,7.0,Annabelle,Canada,It was good,4,2020-03-01,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+20,6.0,Mary,United States of America,Good location,13,2020-03-01,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",0.6000000000000001,0.7,Positive
+21,7.1,Yaritza,United States of America,Good,5,2020-03-01,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+22,8.0,Judith,United States of America,We had a great time and the room was fine for us.,4,2020-03-01,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.625,0.6083333333333334,Positive
+23,7.0,Rae,United States of America,Good,1,2020-02-28,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+24,7.0,Anton,South Africa,Much better than what some reviews suggest,1,2020-01-20,"Business trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.5,0.5,Positive
+25,6.0,Erica,United States of America,Pleasant,5,2020-01-19,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+26,7.0,Jose,United States of America,"If you're looking for a centrally located hotel at a good price & you're not fussy, this is it.",3,2020-01-16,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.42500000000000004,0.35,Positive
+27,8.0,Michelle,United States of America,It’s a charming old hotel in an excellent location with helpful staff,1,2020-01-15,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7333333333333334,0.6,Positive
+28,8.0,Mark,United States of America,Better that expected and worked well for our needs.,3,2020-01-14,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.45,0.2,Positive
+29,8.0,Ruta,United Kingdom,Very Good,8,2020-01-13,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+30,8.0,Ipuchtel,United States of America,Nice little rustic hotel in the heart of San Francisco,39,2020-01-13,"Business trip, Couple, Queen Room, Stayed 8 nights",0.75,0.20625,Positive
+31,8.0,Carinabina,United States of America,Great stay in Union Square,6,2020-01-12,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.75,0.8,Positive
+32,7.0,Matteo,Italy,Good,3,2020-01-11,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+33,7.1,Sharlita,Malaysia,"Upon checking in, front desk ( guy) was rather rude",2,2020-01-09,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6,-0.3,Negative
+34,7.0,Roisin,Ireland,Good,1,2020-01-09,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+35,7.0,Linda,United States of America,Good,2,2020-01-09,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+36,7.5,An,Cambodia,Good,4,2020-01-09,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+37,8.0,Elizabeth,Australia,Excellent location and comfortable with convenience.,17,2020-01-08,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+38,7.9,Carolina,United States of America,Excellent location,4,2020-01-07,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+39,6.0,Paolo_b212,Italy,Good stay in San Francisco,46,2020-01-03,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.6000000000000001,0.7,Positive
+40,8.0,Janice,Canada,We enjoyed our stay.,5,2020-01-03,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.7,0.5,Positive
+41,7.0,Joseph,United States of America,It was okay 👌🏻 lol,1,2019-12-31,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,0.65,Positive
+42,7.9,Nadia,United States of America,Good,2,2019-12-29,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+43,7.0,Jerome,United States of America,Good,2,2019-12-26,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+44,8.0,Nosheen,United States of America,Very Good,2,2019-12-26,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+45,7.1,Manuel,United States of America,Room very quaint but too small l,4,2019-12-26,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.35,-0.024999999999999994,Negative
+46,8.0,Rachel,New Zealand,"Would definitely stay here again, really liked it. The place just needs a refurbishment.",4,2019-12-25,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.65,0.3,Positive
+47,8.8,Maria,Sweden,Good location but noisy,39,2019-12-24,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+48,8.0,Carol,Canada,Very Good,16,2019-12-22,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+49,8.0,Carol,United States of America,Very Good,4,2019-11-08,"Business trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+50,7.1,Carlos,Dominican Republic,Good,1,2019-11-08,"Couple, Queen Room, Stayed 7 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+51,6.7,Alexandros,Greece,Pleasant,53,2019-11-06,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+52,6.7,David,Romania,Pleasant,7,2019-11-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+53,6.0,David,Australia,Good budget hotel,8,2019-11-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+54,7.0,Corissa,United States of America,"Good for short stays, and budget friendly",1,2019-11-05,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.46666666666666673,0.35833333333333334,Positive
+55,6.3,Jorge,United States of America,Pleasant,1,2019-11-05,"Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+56,7.0,Sue,New Zealand,Good,3,2019-11-05,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 7 nights",0.6000000000000001,0.7,Positive
+57,6.0,David,United Kingdom,Pleasant,4,2019-11-05,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+58,7.1,Anne,Australia,Good,5,2019-11-04,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+59,7.1,Linda,New Zealand,"GREAT LOCATION, VERY OLD HOTEL, VERY SMALL ROOMS.",46,2019-11-03,"Leisure trip, Couple, Queen Room, Stayed 6 nights",0.51,0.20166666666666666,Positive
+60,7.0,Jennifer,United States of America,"Serviceable for a quick trip, place to sleep and store luggage",1,2019-11-03,"Business trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5,0.3333333333333333,Positive
+61,8.3,Constantin,Switzerland,Very Good,7,2019-11-03,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+62,8.0,Diane,United States of America,Would come again for value,2,2019-10-31,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+63,7.1,Touseef,Pakistan,Good,9,2019-10-31,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+64,7.0,Mark,Australia,"Great location, good staff",1,2019-10-31,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.675,0.75,Positive
+65,8.8,Matthew,United Kingdom,Ideal budget hotel base to stay,18,2019-10-31,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 5 nights, Submitted from a mobile device",1.0,0.04999999999999999,Positive
+66,8.8,Deborah,United States of America,"In a city that is extremely expensive, this was a modest hotel very much in the European model.",1,2019-10-30,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.465,-0.035,Negative
+67,7.9,Amer,United Arab Emirates,Good,5,2019-10-30,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+68,7.0,Susan,Uganda,lovely,2,2019-10-30,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 7 nights",0.75,0.5,Positive
+69,8.3,Georgia,Canada,Very Good,1,2019-10-30,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+70,7.5,Sandra,Canada,Good,5,2019-10-29,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+71,7.9,Eimear,Ireland,perfect ticked our boxes,4,2019-10-29,"Leisure trip, Couple, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+72,6.7,Megan,Australia,Pleasant,4,2019-10-29,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights",0.9666666666666667,0.7333333333333333,Positive
+73,7.9,Johanna,United States of America,Good,2,2019-10-28,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+74,8.0,Rasha,Egypt,Lovely stay i liked the hotel,1,2019-10-02,"Business trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.775,0.55,Positive
+75,7.1,Holly,United Kingdom,"Window would not open, but happy overall with my stay. Good for a short stay",5,2019-10-01,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",0.48,0.3,Positive
+76,8.8,Lynn,United Kingdom,Excellent,1,2019-09-30,"Leisure trip, Family with young children, Queen Room, Stayed 6 nights, Submitted from a mobile device",1.0,1.0,Positive
+77,8.0,Judy,United Kingdom,Ideal location !,9,2019-09-29,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+78,8.0,Douglas,United States of America,Very Good,5,2019-09-28,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+79,7.1,Brian,United Kingdom,Good,36,2019-09-28,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+80,7.5,Megan,United Kingdom,Good,10,2019-09-27,"Leisure trip, Group, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+81,6.7,Sara,United States of America,Pleasant,1,2019-09-27,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+82,7.5,Lauren,United States of America,Good,5,2019-09-27,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+83,7.9,Hazel,United Kingdom,Good,17,2019-09-25,"Leisure trip, Family with young children, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+84,7.9,Danny,United States of America,Good,1,2019-09-24,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+85,8.8,Julekake515,United States of America,The staff was friendly and accommodating. It was fine but not A1.,2,2019-09-23,"Leisure trip, Couple, Room Selected at Check-In, Stayed 3 nights, Submitted from a mobile device",0.5,0.39583333333333337,Positive
+86,7.9,Anthony,Ireland,Great location.,15,2019-09-23,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.75,0.8,Positive
+87,8.3,Claudine,Canada,Great location. Quiet and close to restaurants and transat.  Would stay here again.,2,2019-09-23,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.5416666666666666,0.4,Positive
+88,8.8,Donna,United States of America,Fall in SF,6,2019-09-23,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+89,8.8,Andrea,United States of America,Excellent,9,2019-09-23,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+90,8.3,Scott,United States of America,Convenient comfort,1,2019-09-23,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+91,6.3,Jay-allen,United States of America,"Cheap, decent, clean, nothing fancy.",9,2019-09-23,"Business trip, Couple, Queen Room, Stayed 1 night",0.688888888888889,0.3111111111111111,Positive
+92,7.9,Pamela,United States of America,Beresford,5,2019-09-22,"Leisure trip, Family with young children, Room Selected at Check-In, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+93,6.7,Joe,Ireland,Pleasant,10,2019-09-21,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+94,7.5,Mandy,United Kingdom,Good,9,2019-09-19,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+95,7.9,Jeff,New Zealand,Good hotel.  Not cheap but San Francisco is quite expensive so won't do any better in the location.,22,2019-09-18,"Leisure trip, Couple, Queen Room, Stayed 6 nights",0.625,0.12499999999999999,Positive
+96,8.3,Emily,United States of America,I would go back in a heartbeat.,7,2019-09-18,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+97,7.9,Janice,United Kingdom,Reasonable,15,2019-09-17,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6,0.2,Positive
+98,6.7,Karen,United Kingdom,Pleasant,44,2019-09-17,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+99,6.7,Ian,New Zealand,"some good bits and bad bits. If breakfast selection and room facilites could be improved, would be b",33,2019-08-27,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6333333333333333,5.551115123125783e-17,Positive
+100,8.8,Toni,Australia,Excellent,5,2019-08-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+101,7.5,Bev,Australia,An older style of accomodation but everything was good,1,2019-08-26,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.4666666666666667,0.4333333333333333,Positive
+102,7.5,Pierina,Malta,Fairly good.,3,2019-08-26,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+103,8.3,Marvin,United States of America,Very Good,1,2019-08-25,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+104,8.8,John,United Kingdom,A great base for San Francisco,9,2019-08-24,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.875,0.0,Neutral
+105,7.5,Gugaplens,Brazil,Nice place and location,4,2019-08-24,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",1.0,0.6,Positive
+106,7.1,Hiu,Canada,"Central location is the main selling point, but not if you have to park your car",4,2019-08-23,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night",0.29166666666666663,0.08333333333333333,Positive
+107,7.5,Pedro,United States of America,Nice place to stay if traveling on a budget.,1,2019-08-23,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights",1.0,0.6,Positive
+108,7.1,Wieb,New Zealand,Good,1,2019-08-22,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+109,8.3,Yaroslav,Ukraine,Very Good,2,2019-08-22,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+110,6.3,Sandra,United States of America,Pleasant,3,2019-08-21,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+111,6.3,Mark,United States of America,Pleasant,14,2019-08-21,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+112,7.9,Elspeth,Australia,"Great location, helpful belhop and lovely friendly maids.",6,2019-08-21,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6666666666666666,0.5583333333333333,Positive
+113,8.3,Sergio,Spain,Nice and comfortable hotel near Union Square,36,2019-08-20,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night",0.7333333333333334,0.3666666666666667,Positive
+114,7.5,Margot,Australia,Good,14,2019-08-20,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+115,7.5,Jennifer,United States of America,Good,1,2019-08-20,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+116,8.3,Benjamin,United States of America,Lovely location. Wonderful stay in a historic building.,8,2019-08-20,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.5833333333333334,0.5,Positive
+117,8.3,Mark,United States of America,"Great location, relaxed and friendly staff",1,2019-08-19,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.625,0.5875,Positive
+118,8.8,Cheryl,Canada,Excellent stay. Thank you.,6,2019-08-18,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+119,8.8,Alisa,United States of America,Value and convenience near Union Square,1,2019-08-18,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.4,0.1,Positive
+120,7.9,Shawne,United States of America,"Adequate.  The room was  clean, although the furnishings could use a refresh. Comfortable  bed!",1,2019-08-18,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6111111111111112,0.39999999999999997,Positive
+121,8.8,Narine,Canada,Excellent,2,2019-08-18,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+122,7.5,Sazza65,United Kingdom,Good,17,2019-08-18,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+123,7.9,Ramon,Australia,Great place to rest your weary bones after a long day.,1,2019-08-17,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.575,0.375,Positive
+124,6.7,Stanley,United States of America,Pleasant,1,2019-07-18,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+125,8.3,Paul,Australia,Great base to explore San Francisco.................,4,2019-07-17,"Leisure trip, Family with young children, Queen Room, Stayed 7 nights",0.875,0.0,Neutral
+126,6.3,Tim,Australia,Good location,5,2019-07-17,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+127,8.8,Laura,United States of America,Comfortable beds,1,2019-07-16,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.8,0.4,Positive
+128,8.3,Donna,Switzerland,Very Good,10,2019-07-16,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+129,8.8,Katherine,United States of America,Excellent,6,2019-07-16,"Leisure trip, Solo traveler, Double Room with Two Double Beds, Stayed 1 night",1.0,1.0,Positive
+130,8.3,Steve,Canada,Very Good,5,2019-07-15,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+131,8.8,Maeve,Ireland,"Nice hotel, centrally located",3,2019-07-15,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.625,0.3,Positive
+132,8.8,Risa,United States of America,Great hotel for the price in San Francisco,6,2019-07-14,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,0.8,Positive
+133,6.3,Michelle,United States of America,The hotel was clean and located centrally.,2,2019-07-14,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.47500000000000003,0.18333333333333335,Positive
+134,6.3,Keith,New Zealand,OK,9,2019-07-14,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.5,0.5,Positive
+135,7.1,Fung,Hong Kong,Good,1,2019-07-13,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+136,7.9,Linda,United States of America,We enjoyed our stay and liked the price for the location.,1,2019-07-13,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,0.55,Positive
+137,8.3,Mildew,United States of America,Very Good,9,2019-07-13,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights",0.7800000000000001,0.9099999999999999,Positive
+138,7.9,Jennifer,United Kingdom,Great location,4,2019-07-13,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.75,0.8,Positive
+139,7.5,Mark,United Kingdom,Good,36,2019-07-12,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+140,7.1,Klaus,United States of America,Good,4,2019-07-12,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+141,6.3,Mario,United States of America,??,10,2019-07-12,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+142,8.3,Laura,United States of America,Very Good,2,2019-07-11,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+143,7.5,Kevin,United States of America,"It was a good stay, we had alot of fun in the city and hope to be back someday",1,2019-07-11,"Leisure trip, Group, Queen Room, Stayed 4 nights",0.26666666666666666,0.3333333333333333,Positive
+144,8.3,David,United States of America,"This is a good deal for the price if you want a private bathroom, breakfast and be near Union Square",7,2019-07-11,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.4583333333333333,0.26666666666666666,Positive
+145,7.9,Rosina,New Zealand,"Very sociable, and thoroughly enjoyed our stay at a very traditional old school type of accomodation",33,2019-07-11,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights",0.5437500000000001,0.19999999999999998,Positive
+146,7.5,Laura,Ireland,Rude staff / good location,7,2019-07-11,"Business trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.19999999999999998,Positive
+147,8.3,Andrew,United States of America,Very Good,15,2019-07-10,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+148,7.1,Idaho,United States of America,"Overall, good location for the price",2,2019-07-10,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.30000000000000004,0.35,Positive
+149,8.8,Elizabeth,United States of America,Excellent,4,2019-06-17,"Business trip, Family with young children, Queen Room, Stayed 4 nights",1.0,1.0,Positive
+150,6.7,Sal,United States of America,Good for a quick stay but not worth the value,1,2019-06-17,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.4000000000000001,0.2944444444444444,Positive
+151,6.3,Manda,Australia,"Expensive for not much, however staff were nice",7,2019-06-17,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6333333333333333,0.0,Neutral
+152,7.1,Yan,Canada,I would want a microwave in the room,2,2019-06-16,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights",0.0,0.0,Neutral
+153,6.3,Russell,United Kingdom,Pleasant,4,2019-06-16,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+154,6.3,Maree,Australia,Short stay in San Fran,14,2019-06-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.3,0.0,Neutral
+155,8.3,Sheldon,United States of America,Stay met my expectations for the location and prior reviews,12,2019-06-15,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+156,6.7,Ann-marie,Australia,Pleasant,3,2019-06-14,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+157,6.7,Jenifer,United States of America,Pleasant,1,2019-06-13,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+158,8.3,Christine,United States of America,Hot.,3,2019-06-13,"Business trip, Solo traveler, Queen Room, Stayed 2 nights",0.8500000000000001,0.25,Positive
+159,7.1,Lisa,Australia,A reasonable 3 star.,3,2019-06-12,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6,0.2,Positive
+160,7.1,Paul,Panama,Im an American,1,2019-06-12,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+161,7.5,Patricia,Australia,Breakfast was quite basic. Beds were comfy but were not extra large doubles as stated.,57,2019-06-11,"Leisure trip, Group, Queen Room, Stayed 3 nights",0.21785714285714286,0.07142857142857142,Positive
+162,6.3,Cat,New Zealand,Overall staff very good and very helpful. Location excellent and stay fairly good value for money .,19,2019-06-11,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.536,0.5619999999999999,Positive
+163,8.8,Herrick,United States of America,"A great place to stay. The location was incredible, and the staff was VERY helpful.",10,2019-06-10,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.65,0.6333333333333334,Positive
+164,8.8,Kym,Australia,"The Beresford Hotel is well located, clean and comfortable",19,2019-06-10,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.75,0.38333333333333336,Positive
+165,7.5,Daniel,Australia,Good,4,2019-06-10,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+166,8.3,Brian,United States of America,Very Good,2,2019-06-09,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+167,7.9,Kevin,United States of America,Very disappointed that they say could not find our charger left plugged in to port on night stand,3,2019-06-09,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.48750000000000004,-0.48750000000000004,Negative
+168,6.7,Eddie,United States of America,Overall it was a nice stay,5,2019-06-09,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 7 nights",0.5,0.3,Positive
+169,7.5,Glenn,United States of America,Ok for the money,3,2019-06-08,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5,0.5,Positive
+170,8.8,Sharontung,New Zealand,Excellent,68,2019-06-08,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+171,7.9,Niklas,United States of America,Good,36,2019-06-07,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+172,8.8,Debbie,Australia,Excellent,4,2019-06-07,"Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+173,6.7,Paul,Belgium,Pleasant,26,2019-06-07,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights",0.9666666666666667,0.7333333333333333,Positive
+174,7.5,Karin,Canada,Good,5,2019-05-13,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+175,8.3,Linda,Australia,Very Good,21,2019-05-13,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+176,8.3,Angela,United States of America,Very Good,3,2019-05-12,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+177,8.8,Birch,United States of America,Excellent,1,2019-05-11,"Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+178,6.7,Rehana,United States of America,Pleasant,1,2019-05-11,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+179,7.1,Qiuxuan,Singapore,Good,6,2019-05-11,"Leisure trip, Solo traveler, Queen Room, Stayed 7 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+180,7.1,David,Australia,Great location good bar,12,2019-05-09,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.675,0.75,Positive
+181,6.3,Arulad,Turkey,Good for 1-3 nights for a good rate. Else find another place,53,2019-05-07,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+182,8.8,Diverman,United States of America,hotel close to theaters,143,2019-05-05,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.0,0.0,Neutral
+183,7.9,Christopher,Australia,Would definitely recommend as a good value option in SF,2,2019-05-04,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.55,0.35,Positive
+184,7.1,Sally,Canada,Good,2,2019-05-04,"Business trip, Group, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+185,7.5,Jasmine,United States of America,Good,6,2019-05-04,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+186,6.7,Ian,United Kingdom,Four days in San Francisco,3,2019-05-04,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+187,6.7,Nancie,United States of America,Pleasant,2,2019-05-03,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+188,6.3,Keith,Australia,Pleasant,4,2019-05-03,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+189,7.1,Shana,United States of America,Good,4,2019-05-03,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+190,8.3,Victor,New Zealand,Very enjoybale,8,2019-05-02,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.3,0.2,Positive
+191,8.3,Allyn,United States of America,Great value in the heart of SF!,4,2019-05-01,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.75,1.0,Positive
+192,7.9,Pavel,United States of America,Good,1,2019-04-30,"Leisure trip, Family with young children, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+193,8.8,Laura,Canada,Great Location!,6,2019-04-30,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.75,1.0,Positive
+194,8.3,Colleen,United States of America,.stay April 2019,1,2019-04-30,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+195,7.9,Ferney,Colombia,Good,1,2019-04-30,"Business trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+196,8.5,Gabriel,United States of America,Very Good,1,2019-04-30,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+197,7.1,Anita,Australia,Good,2,2019-04-29,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+198,6.9,Lozon,United States of America,Pleasant,6,2019-04-29,"With a pet, Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+199,8.8,Marianne,United States of America,Enjoyed our now 3rd stay and will have a 4th!,4,2019-03-28,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.35,0.25,Positive
+200,7.9,Christine,United States of America,Good,1,2019-03-27,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+201,6.7,Mari,United States of America,Pleasant,2,2019-03-27,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+202,7.1,Joseph,United States of America,For budget-minded city travelers the Beresford will be just fine.,5,2019-03-25,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.5,0.4166666666666667,Positive
+203,6.3,Joleeanto,Germany,Cheapest available hotel near Union Sq,9,2019-03-25,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 3 nights",0.4,0.25,Positive
+204,7.5,Melissa,United States of America,Can’t wait to visit next time!!!,3,2019-03-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+205,7.5,Kelly,United States of America,Good,8,2019-03-24,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+206,6.3,Emil,Australia,Good location,2,2019-03-23,"Leisure trip, Group, Queen Room, Stayed 2 nights",0.6000000000000001,0.7,Positive
+207,8.3,Sarah,United Kingdom,Very Good,2,2019-03-22,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+208,6.7,Noeline,New Zealand,"Had a good experience a few years back, decided to go back and invited friends along. Was disappoin.",1,2019-03-20,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.17500000000000002,0.12499999999999999,Positive
+209,7.1,Miranda,United States of America,Good,4,2019-03-19,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights",0.6000000000000001,0.7,Positive
+210,8.8,Katherine,Australia,"A great,  well positioned place to stay in San Fran",40,2019-03-18,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.75,0.8,Positive
+211,6.7,John,United States of America,Decent.  Could have been better.,4,2019-03-17,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5833333333333333,0.3333333333333333,Positive
+212,7.1,Donald,New Zealand,"Rude and entitled staff, but great room and location.",1,2019-03-17,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.675,0.25,Positive
+213,7.9,Neal,United States of America,"Great location, great price but don’t have high expectations.",9,2019-03-17,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.68,0.5866666666666667,Positive
+214,8.8,Tony,United States of America,Very Nice Hotel,1,2019-03-17,"Leisure trip, Group, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,0.78,Positive
+215,7.9,Jamie,United States of America,I’d stay there again.,9,2019-03-16,"Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+216,8.3,Charlotte,United States of America,Very Good,4,2019-03-16,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+217,6.3,Becca,United States of America,Pleasant,1,2019-03-16,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+218,8.8,Ioannis,United States of America,What make my trip amazing was the city by itself! San Fransisco is fantastic,7,2019-03-15,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9,0.5750000000000001,Positive
+219,7.5,Jianghua,China,As good as we could expect from them.,4,2019-03-15,"Business trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+220,8.3,Liesl,United States of America,A Little disappointing,1,2019-03-15,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.6,-0.39375,Negative
+221,8.3,Erik,Norway,7days in SF,3,2019-03-14,"Solo traveler, Queen Room, Stayed 7 nights, Submitted from a mobile device",0.0,0.0,Neutral
+222,7.9,Larry,United States of America,I would stay there again.,3,2019-03-14,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",0.0,0.0,Neutral
+223,6.7,Quynh,United States of America,Pleasant,7,2019-03-13,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+224,7.9,Abdulkadir,Nigeria,Good,9,2019-02-12,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+225,8.3,Sarahebor,United Kingdom,Very Good,8,2019-02-12,"Business trip, Group, Double Room with Two Double Beds, Stayed 2 nights",0.7800000000000001,0.9099999999999999,Positive
+226,8.3,Garry,Australia,A great location at a reasonable price.,12,2019-02-12,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.675,0.5,Positive
+227,8.8,Demi,Israel,Great value for money,17,2019-02-12,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.75,0.8,Positive
+228,7.5,Thomas,United States of America,It was okay.,2,2019-02-11,"Business trip, Solo traveler, Queen Room, Stayed 14 nights",0.5,0.5,Positive
+229,6.3,Ahyong,Singapore,value for money stay but could have been better,27,2019-02-11,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.5,0.5,Positive
+230,6.3,Xing,China,Pleasant,3,2019-02-11,"Business trip, Group, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+231,7.1,Julhoff,Australia,Good,43,2019-02-10,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+232,7.9,Michael,United States of America,Good,3,2019-02-10,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+233,7.9,壮一,Japan,Good,1,2019-02-09,"Business trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+234,7.1,Atasi,India,Good,1,2019-02-09,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.6000000000000001,0.7,Positive
+235,6.3,Vermont,United States of America,"Shabby, but not chic.  Pleasant staff.  WiFi works.  I got what I paid for.",2,2019-02-08,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.9666666666666667,0.7333333333333333,Positive
+236,6.3,Rick,Costa Rica,Pleasant,2,2019-02-08,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+237,6.7,Marlena,Canada,It was OK - just don't have high expectations,1,2019-02-08,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.52,0.33,Positive
+238,8.3,Vivien,United Kingdom,"Good location, quite adequate for a few days at a competitive rate for San Francisco.",31,2019-02-07,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.3444444444444445,0.27777777777777773,Positive
+239,6.3,Francis,Chile,It was good vintage place to stay,5,2019-02-03,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+240,6.3,Robin,United Kingdom,Reasonably good.,8,2019-02-03,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+241,7.5,Ohana,United States of America,Hotel Beresford is a pleasant and comfortable hotel for 2 or a single guest.  Great location!,5,2019-02-03,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.6827380952380953,0.5154761904761904,Positive
+242,7.5,Rosemary,Ireland,"Good value. Old - fashioned,  shabby San Fran vibe.",3,2019-02-01,"Leisure trip, Group, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.4,0.39999999999999997,Positive
+243,8.3,George,United States of America,Not noteworthy.,33,2019-02-01,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",0.0,0.0,Neutral
+244,6.7,Fergie’s,United States of America,Basic but clean & safe,16,2019-02-01,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.4416666666666667,0.2888888888888889,Positive
+245,7.1,Roxxi,United States of America,It was alright,4,2019-01-31,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+246,8.3,Kristián,Slovakia,Very Good,28,2019-01-30,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+247,8.3,Susan,United States of America,Very Good,23,2019-01-29,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+248,7.5,Jose,Mexico,Good for the price. Excellent location!,8,2019-01-29,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights",0.8,0.85,Positive
+249,7.5,Lajon,United States of America,It was good,25,2018-12-29,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+250,8.8,Heli,Canada,"Great location. Clean, calm place. Services close by. Excellent for independent travellers.",17,2018-12-29,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.665,0.49333333333333335,Positive
+251,7.1,Angel,United States of America,We had to pay extra for parking. Not good,1,2018-12-27,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.35000000000000003,-0.175,Negative
+252,6.3,Kwee,Singapore,"Overall, it could have been better.",2,2018-12-27,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.25,0.25,Positive
+253,8.3,Dan,United States of America,"Nice value, good location. We’ll stay again. If they fix the paint on the radiator.",21,2018-12-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.8,0.6499999999999999,Positive
+254,7.9,Myra,United States of America,Nice place.  And I would still like to stay here next time.,1,2018-12-25,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.5,0.3,Positive
+255,7.9,Robert,United States of America,Good,14,2018-12-24,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+256,8.8,Ruibo,United States of America,Good enough,3,2018-12-23,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.55,0.35,Positive
+257,7.1,Leonora,United States of America,Good,1,2018-12-22,"Solo traveler, Queen Room, Stayed 6 nights",0.6000000000000001,0.7,Positive
+258,7.5,Sarah,Vietnam,"Good location, value for money",19,2018-12-20,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+259,6.3,Kakashi,United States of America,It’s ok,1,2018-12-20,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+260,6.7,Haotian,United States of America,Pleasant,1,2018-12-20,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+261,8.3,Marta18,Italy,Very Good,10,2018-12-20,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+262,7.5,Clarice,United States of America,Good,1,2018-12-19,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+263,6.3,Francesco,United Kingdom,Average and central,20,2018-12-19,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.32499999999999996,-0.075,Negative
+264,6.7,Aylin,United States of America,Pleasant,20,2018-12-19,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+265,6.3,Jessalyn,United States of America,valet Ripped off but comfortable stay,1,2018-12-18,"Group, Queen Room, Stayed 1 night",0.8,0.4,Positive
+266,6.3,Michelle,Australia,"A beautiful hotel in a good location which could be really nice, if the staff would do a better job",2,2018-12-18,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.775,0.6625,Positive
+267,8.3,Ina,Germany,Very Good,10,2018-12-17,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+268,6.3,Aikaterini,Spain,Pleasant,20,2018-12-15,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+269,6.7,Megan,Australia,Pleasant,7,2018-12-13,"Leisure trip, Family with young children, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+270,7.9,Leticia,United States of America,Good,3,2018-12-13,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+271,7.5,Fran,United States of America,"Good location,friendly staff",29,2018-12-13,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+272,7.1,Andrew,New Zealand,"Good location, poor customer service.",7,2018-12-12,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights",0.6000000000000001,0.14999999999999997,Positive
+273,8.8,Marcia,United States of America,Best way to see this part of SanFrancisco is by public transportation.,3,2018-12-12,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.18333333333333332,0.5,Positive
+274,7.9,Tracey,United Kingdom,"Good location, great price, nice little breakfast, nothing to complain about really",4,2018-11-15,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.6100000000000001,0.42250000000000004,Positive
+275,6.3,Lawrence,United States of America,Pleasant,1,2018-11-14,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+276,7.5,Juanjo699,Colombia,Good,46,2018-11-13,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+277,7.5,Stephan,Bulgaria,Good,26,2018-11-13,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+278,6.7,Douglas,Brazil,Pleasant,1,2018-11-12,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+279,6.7,M,United States of America,Affordable hotel located in downtown San Francisco.,45,2018-11-11,"Business trip, Solo traveler, Queen Room, Stayed 6 nights",0.0,0.0,Neutral
+280,6.7,Joanne,United States of America,Pleasant,8,2018-11-10,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+281,8.3,Eszter,Hungary,Worth for a few days. Recommended!,3,2018-11-09,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.1,0.024999999999999994,Positive
+282,8.8,Nicola,Austria,Excellent,4,2018-11-08,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+283,8.8,Stewart,United Kingdom,A quirky hotel in the city centre,1,2018-11-08,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,0.0,Neutral
+284,6.3,Jud222,Hungary,Pleasant,16,2018-11-08,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+285,8.3,Ms,United States of America,Very Good,8,2018-11-08,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+286,7.1,Lynda,Canada,"Good stay, ideal location, nice staff.",8,2018-11-08,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.8666666666666667,0.7333333333333334,Positive
+287,7.1,Lynne,United Kingdom,Good,9,2018-11-07,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+288,7.1,Brooke,Australia,Good,2,2018-11-07,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+289,7.1,Adam,Poland,good spot for short stay,29,2018-11-06,"Leisure trip, Couple, Room Selected at Check-In, Stayed 2 nights",0.45000000000000007,0.35,Positive
+290,7.9,Martha,Canada,Good,1,2018-11-06,"Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+291,7.9,Carol,United States of America,Good,4,2018-11-06,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+292,7.5,Aurelia,United States of America,Over all is good,3,2018-11-05,"Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+293,7.5,Lorraine,Australia,Good,31,2018-11-03,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+294,8.8,Bruce,United States of America,Met my expectations.,1,2018-11-02,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+295,7.1,Sandra,Australia,Great location and clean rooms,2,2018-11-02,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7250000000000001,0.5833333333333334,Positive
+296,7.5,Brenda,United States of America,Good,3,2018-11-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+297,6.7,Suzy,United States of America,The central location is great.The room was comfortable.The staff was unwelcoming and unhelpful.,4,2018-11-01,"Group, Double Room with Two Double Beds, Stayed 2 nights",0.25,0.0,Neutral
+298,7.5,John,New Zealand,Good,16,2018-11-01,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night",0.6000000000000001,0.7,Positive
+299,7.1,Alex,Canada,"Great location with friendly staff, but the bar is noisy & will keep you up until 2am.",7,2018-10-03,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.625,0.5875,Positive
+300,7.1,Maria,United States of America,Good,15,2018-10-02,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+301,8.8,Christian,United States of America,Quaint & Convenient,1,2018-10-02,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+302,8.8,Janet,United Kingdom,Friendly place to stay and very clean.helpful staff,7,2018-10-01,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.4,0.2875,Positive
+303,7.1,Amanda,Canada,"Good location, clean room",13,2018-10-01,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6500000000000001,0.5333333333333333,Positive
+304,6.7,Angela,United States of America,Pleasant,4,2018-10-01,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 1 night",0.9666666666666667,0.7333333333333333,Positive
+305,8.3,Russell,New Zealand,Very Good,1,2018-10-01,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.7800000000000001,0.9099999999999999,Positive
+306,8.3,David,United States of America,I would definitely staff there again.,1,2018-10-01,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights",0.5,0.0,Neutral
+307,8.3,Dan,Canada,Very Good,3,2018-09-30,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+308,7.5,Lizzy,United Kingdom,Good value & great location but bathroom needs updating,17,2018-09-30,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.675,0.75,Positive
+309,6.3,Sam,United States of America,ok,4,2018-09-30,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.5,0.5,Positive
+310,8.8,William,United States of America,Excellent,12,2018-09-30,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+311,8.3,Adriana,Argentina,Very Good,7,2018-09-28,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 5 nights",0.7800000000000001,0.9099999999999999,Positive
+312,6.7,Jessica,United States of America,Pleasant,1,2018-09-28,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+313,6.7,Gianna,United States of America,Pleasant,1,2018-09-28,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+314,6.3,Kaz,United Kingdom,No welcome at this old hotel,2,2018-09-27,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.55,-0.15000000000000002,Negative
+315,6.7,Simon,United Kingdom,Pleasant,3,2018-09-26,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+316,7.5,Fred,United States of America,"All in all, the room was fine, the location GREAT, the staff, Wonderful. The BREAKFAST HORRIBLE!",2,2018-09-25,"Leisure trip, Group, Queen Room, Stayed 2 nights",0.8125,0.3041666666666667,Positive
+317,7.5,Claire,Ireland,Good,3,2018-09-25,"Leisure trip, Couple, Queen Room, Stayed 5 nights",0.6000000000000001,0.7,Positive
+318,6.7,Joyce,United States of America,Pleasant,3,2018-09-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+319,8.3,Sonia,New Zealand,We enjoyed our stay and would recommend it to others as it was recommended to us.,6,2018-09-25,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 3 nights",0.7,0.5,Positive
+320,7.5,Karen,United Kingdom,Good,10,2018-09-24,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+321,7.1,Jennifer,United States of America,Good,5,2018-09-24,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",0.6000000000000001,0.7,Positive
+322,7.1,Tony,United States of America,Good,8,2018-09-24,"Leisure trip, Travelers with friends, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+323,7.5,Pauline,United Kingdom,very  pleasant  great location for union street etc,1,2018-09-24,"Leisure trip, Group, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.875,0.8766666666666667,Positive
+324,6.3,Pamela,United States of America,Pleasant,3,2018-08-22,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+325,7.5,Ellen,United States of America,"Although there were some issues, this was a reasonably priced hotel an it worked for us.",5,2018-08-21,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights",0.6,0.2,Positive
+326,7.1,Anonymous,Canada,you got what you pay,5,2018-08-21,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights",0.0,0.0,Neutral
+327,7.1,Natalie,Canada,Good value for money,1,2018-08-21,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+328,7.5,Leilee,United States of America,Good,7,2018-08-21,"Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+329,8.3,Toke,Thailand,Very Good,62,2018-08-20,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+330,8.8,James,Canada,It overall was fine.,6,2018-08-20,"Leisure trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.25,0.20833333333333334,Positive
+331,7.5,Carlos,United States of America,"Great value, will make you feel like you’re stealing.",2,2018-08-20,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,0.8,Positive
+332,6.3,Mike,New Zealand,Pleasant,11,2018-08-19,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+333,6.7,Karen,United Kingdom,"Good place to stay for a night or two. Value for money, without the frills!",4,2018-08-19,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.875,Positive
+334,7.9,Sonia,Spain,Good location,13,2018-08-19,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+335,7.9,Sarah,Australia,Value,2,2018-08-18,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+336,7.9,Lusiana,Fiji,Excellent,2,2018-08-17,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+337,7.5,Robert,United States of America,The hotel Beresford is a good deal This is our 6th time staying with them,6,2018-08-17,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+338,7.9,Smriti,United States of America,Love the location. Best staff. Bed sheets were not clean. They looked like they were not washed.,8,2018-08-17,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.5333333333333333,0.4388888888888889,Positive
+339,7.9,Chuck,United States of America,It was just what I expected and therefore a decent value and a nice change of pace,12,2018-08-16,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.6888888888888888,0.2222222222222222,Positive
+340,7.5,Khaliunbat,Mongolia,Good,12,2018-08-16,"Business trip, Group, Double Room with Two Double Beds, Stayed 2 nights",0.6000000000000001,0.7,Positive
+341,8.8,Agata,United States of America,Excellent,15,2018-08-15,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+342,7.1,Michael,Germany,Okay for a short stay,4,2018-08-15,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.4,0.25,Positive
+343,7.1,Kimberly,United States of America,"Might stay here again, but questionable since there are so many options in SFO>",5,2018-08-14,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.75,0.0,Neutral
+344,7.9,Odran,United Kingdom,Good,9,2018-08-13,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+345,8.8,Veganfoodie,United States of America,"Overall excellent stay.  First trip to SF, and really enjoyed it.",5,2018-08-13,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.5083333333333333,0.4375,Positive
+346,7.5,Kate,Australia,Good,23,2018-08-13,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+347,7.9,Boyd,United States of America,Good,16,2018-08-12,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+348,8.8,Edanilka,Puerto Rico,Excellent,5,2018-08-11,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+349,9.0,Johnny,United States of America,Excellent,5,2020-02-15,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+350,9.6,Susan,Australia,Another great stay at the Beresford,39,2020-02-15,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.75,0.8,Positive
+351,10.0,Carolyn,United States of America,Hotel Beresford - a little gem by Union Square,1,2020-02-14,"Leisure trip, Travelers with friends, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5,-0.1875,Negative
+352,1.0,The,United States of America,Stay somewhere else,1,2020-02-14,"Leisure trip, Travelers with friends, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+353,3.0,Adolfo,United States of America,Too noisy seems the walls thin. Staff not helpful,2,2020-02-14,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.8500000000000001,-0.4,Negative
+354,5.0,Luciana,United States of America,"Good value, very basic",2,2020-02-14,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.38125000000000003,0.35,Positive
+355,9.0,Iana,United States of America,Awesome,4,2020-02-14,"Leisure trip, Travelers with friends, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+356,9.0,Maureen,United States of America,Great value for your money,18,2020-02-14,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.75,0.8,Positive
+357,5.0,Karen,United States of America,Good location but there are more comfortable hotels in the area,2,2020-02-13,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6333333333333334,0.5333333333333333,Positive
+358,10.0,Sharon,United States of America,Exceptional,1,2020-02-13,"Leisure trip, Couple, Queen Room, Stayed 4 nights",1.0,0.6666666666666666,Positive
+359,5.0,Serge,France,Fair,4,2020-02-10,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.9,0.7,Positive
+360,5.0,Steven,United States of America,Great value just old and run down.,3,2020-02-10,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.412962962962963,0.24814814814814815,Positive
+361,10.0,Joseph,United States of America,Satisfied enough that we will return.,1,2020-02-09,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.75,0.25,Positive
+362,9.6,Pavel,United States of America,Exceptional,6,2020-02-09,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+363,9.2,Judy,New Zealand,Awesome,1,2020-02-08,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+364,9.2,Eric,United States of America,Awesome,1,2020-02-07,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+365,9.0,Alexander,United States of America,Great value for the money,18,2020-02-04,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.75,0.8,Positive
+366,9.0,Tai,New Zealand,great,9,2020-02-02,"Leisure trip, Solo traveler, Queen Room, Stayed 10 nights",0.75,0.8,Positive
+367,10.0,Eduardo,Mexico,Exceptional,1,2020-02-02,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+368,3.0,Michele,United States of America,Marginal at best,1,2020-02-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.3,1.0,Positive
+369,9.0,Yu-kun,Taiwan,Awesome,37,2020-02-01,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+370,10.0,Eduardo,Mexico,Exceptional,3,2020-01-31,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+371,10.0,Rebecca,United States of America,Wonderful!,1,2020-01-30,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+372,5.0,Jeanne,United States of America,Nice.....but.....,4,2020-01-28,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+373,9.0,Autumn,United States of America,Great place.,5,2020-01-27,"Business trip, Solo traveler, Queen Room, Stayed 5 nights",0.75,0.8,Positive
+374,9.2,John,United States of America,Awesome,5,2019-12-09,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+375,10.0,Rebecca,United States of America,Great location and great value,4,2019-12-08,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 9 nights, Submitted from a mobile device",0.75,0.8,Positive
+376,4.2,Randall,United States of America,Disappointing,1,2019-12-08,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+377,9.6,Mark,United States of America,Exceptional,3,2019-12-08,"Business trip, Solo traveler, Queen Room, Stayed 10 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+378,3.3,Mary,Australia,Poor,3,2019-12-08,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.6,-0.4,Negative
+379,5.0,Rebecca,United States of America,Low cost option for the frugal traveler.,5,2019-12-07,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.3,0.0,Neutral
+380,10.0,Mary,Ireland,"Value for money,centrally located,hotel very clean,friendly and courteous staff",3,2019-12-04,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.65,0.4,Positive
+381,5.8,Jeile,United Kingdom,"It's a 2 star, and kinda lives up to its rating",17,2019-12-04,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+382,5.0,Anoop,United States of America,Fair,2,2019-12-01,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+383,10.0,Robin,United States of America,Exceptional,1,2019-12-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+384,4.2,Julien,France,Disappointing,1,2019-11-27,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+385,5.0,Patricia,United States of America,"For a 4 day business trip, it was fine.",1,2019-11-26,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights",0.5,0.4166666666666667,Positive
+386,5.0,Michael,United States of America,Fair,1,2019-11-26,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights",0.9,0.7,Positive
+387,9.2,Richard,United States of America,Awesome,4,2019-11-25,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+388,10.0,Inbal,Canada,Exceptional,8,2019-11-22,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+389,1.0,Joann,United States of America,Worst. Hotel. Ever.,1,2019-11-22,"Business trip, Group, Room Selected at Check-In, Stayed 4 nights",1.0,-1.0,Negative
+390,3.0,Megan,Australia,Do not stay unless absolutely desperate.,15,2019-11-22,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights",1.0,-0.6,Negative
+391,9.0,Susanne,United States of America,Awesome,1,2019-11-19,"Leisure trip, Couple, Queen Room, Stayed 1 night",1.0,1.0,Positive
+392,9.0,Debra,United States of America,Awesome,2,2019-11-19,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+393,10.0,Jimmied,Canada,"Would highly recommend staying here, as we stayed 3 nights",9,2019-11-17,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.5399999999999999,0.16,Positive
+394,5.0,Montse,Spain,Fair,35,2019-11-16,"Leisure trip, Group, Queen Room, Stayed 4 nights",0.9,0.7,Positive
+395,3.0,Lesley,United Kingdom,Going back. But paying more to stay hopefully in a better hotel.,11,2019-11-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.3333333333333333,0.3333333333333333,Positive
+396,1.0,Joey,Ireland,Very Poor,3,2019-11-15,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.78,-0.52,Negative
+397,5.0,Roshika,Australia,Good location but hotel needs to be upgraded,2,2019-11-15,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights",0.6000000000000001,0.7,Positive
+398,10.0,Katie,United Kingdom,Exceptional,1,2019-11-14,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+399,4.6,Lauren,United Kingdom,Disappointing,3,2019-10-04,"Leisure trip, Group, Queen Room, Stayed 4 nights",0.7,-0.6,Negative
+400,2.0,Sharon,France,Overpriced.  Maybe if you eat a big breakfast it's worth it?  I didn't have breakfast,5,2019-10-04,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 3 nights",0.1,0.15,Positive
+401,5.4,Chris,United States of America,Fair,2,2019-10-03,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+402,5.8,Mary,United States of America,Okay,6,2019-10-03,"Business trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+403,5.8,Sondra,United States of America,Okay,2,2019-10-02,"Family with young children, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.5,0.5,Positive
+404,1.0,Neil,United Kingdom,Great location comfortable clean and convenient,8,2019-10-01,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.75,0.5222222222222223,Positive
+405,10.0,William,United States of America,Awesome hotel with a friendly staff.,5,2019-09-30,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.75,0.6875,Positive
+406,9.0,Eduardo,United States of America,It was good.,1,2019-09-30,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+407,3.8,Ericka,United States of America,Very unsatisfying.,3,2019-09-30,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.3,0.2,Positive
+408,2.5,Juan,United States of America,Very Poor,2,2019-09-29,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.78,-0.52,Negative
+409,3.0,Matthew,United States of America,Not worth half of what they charge,2,2019-09-28,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.13333333333333333,-0.15833333333333333,Negative
+410,10.0,Conatang,United Kingdom,Exceptional,15,2019-09-28,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+411,5.0,Katie,New Zealand,The only good thing about this place is the location,1,2019-09-27,"Business trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.8,0.35,Positive
+412,4.0,Tessa,Australia,Was glad to check out,3,2019-09-27,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.5,Positive
+413,5.0,Gillian,Canada,Fair,8,2019-09-26,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+414,5.8,Natalie,Australia,Uncomfortable,2,2019-09-25,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,-0.5,Negative
+415,10.0,John,United States of America,Exceptional,4,2019-09-24,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night",1.0,0.6666666666666666,Positive
+416,5.4,Judith,United States of America,Tired old place.,12,2019-09-23,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.44999999999999996,-0.15000000000000002,Negative
+417,9.6,Neil,United Kingdom,Exceptional,7,2019-09-23,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+418,9.6,María,Spain,Very well located,6,2019-09-21,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.3,0.2,Positive
+419,9.2,Gwenn,United States of America,We only stayed one night but it was all good!,2,2019-09-20,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.8,0.4375,Positive
+420,3.3,Tomio,United States of America,Poor,12,2019-09-19,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+421,4.6,Daniel,Taiwan,Best value for budget but no quality at all.,5,2019-09-19,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",0.3,1.0,Positive
+422,5.5,Sandy,New Zealand,All fine - bed was comfy... rooms were clean... location great,5,2019-09-19,"Leisure trip, Group, Queen Room, Stayed 2 nights",0.65,0.5277777777777778,Positive
+423,5.8,Krysta,United States of America,Okay,1,2019-09-17,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5,0.5,Positive
+424,9.2,Dina,Serbia,Awesome,15,2019-08-15,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+425,5.4,Judith,United States of America,Fair,1,2019-08-13,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+426,5.0,Randy,United States of America,Fair,1,2019-08-10,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+427,10.0,Sue,Australia,"We really enjoyed our stay in San Francisco, it was great to explore the city and experience all th.",2,2019-08-10,"Leisure trip, Group, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.725,0.65,Positive
+428,10.0,Sharon,United States of America,Exceptional,12,2019-08-10,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+429,10.0,Jackie,United States of America,Excellent,3,2019-08-09,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+430,9.2,Linda,United States of America,Awesome,5,2019-08-09,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+431,10.0,Anastasia,United States of America,Exceptional,3,2019-08-09,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",1.0,0.6666666666666666,Positive
+432,10.0,Jessica,Brazil,Fantastic! We (me and my daughter) were so happy at Beresford!!!,4,2019-08-07,"Leisure trip, Family with young children, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.95,0.75,Positive
+433,4.6,Bret,United States of America,Wouldn’t recommend staying here,9,2019-08-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+434,10.0,Rebecca,United States of America,Exceptional,1,2019-08-06,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 6 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+435,9.6,Patrick,United Kingdom,Hidden gem. Superb location.,17,2019-08-06,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6666666666666666,0.4166666666666667,Positive
+436,9.6,Retiredteachercheri,United States of America,Enjoyable experience.,69,2019-08-06,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6,0.5,Positive
+437,9.2,Peter,Australia,Awesome,45,2019-08-06,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+438,5.8,Josafat,United States of America,Okay,8,2019-08-05,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.5,0.5,Positive
+439,10.0,Theresa,United States of America,Exceptional,12,2019-08-05,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+440,9.2,Jonathan,United Kingdom,A great small hotel to stay in In SanFrancisco,34,2019-08-04,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.575,0.275,Positive
+441,5.8,Steve,United Kingdom,Okay,1,2019-08-03,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.5,0.5,Positive
+442,9.2,Reginald,United States of America,It was enjoyable,1,2019-08-02,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,0.5,Positive
+443,4.6,Alejandro,Mexico,First and last,3,2019-08-02,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.19999999999999998,0.125,Positive
+444,9.6,Kassandra,United States of America,Amazing!,1,2019-07-31,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9,0.7500000000000001,Positive
+445,10.0,Jerome,United States of America,My wife and I had a great time,2,2019-07-31,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.75,0.8,Positive
+446,5.8,John,United Kingdom,Basic accommodation  near the city centre,37,2019-07-30,"Leisure trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.2625,0.05,Positive
+447,5.4,Urska,Slovenia,Fair,35,2019-07-30,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+448,10.0,Jessica,United States of America,Location is Perfect!,18,2019-07-30,"Leisure trip, Family with young children, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+449,5.0,Carol,United States of America,Would not stay there again.,1,2019-06-24,"Leisure trip, Family with young children, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+450,10.0,Youngsub,South Korea,Exceptional,28,2019-06-23,"Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+451,9.6,Julie,New Zealand,Exceptional,5,2019-06-23,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+452,10.0,Julie,United Kingdom,Comfortable.,7,2019-06-23,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 5 nights, Submitted from a mobile device",0.8,0.4,Positive
+453,5.4,Brittany,United States of America,The price to stay at this hotel was not worth it!,2,2019-06-21,"Leisure trip, Family with young children, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.1,-0.1875,Negative
+454,9.6,Michelle,United States of America,Very quaint affordable in great location,1,2019-06-21,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.525,0.5,Positive
+455,9.2,David,United States of America,Awesome,5,2019-06-21,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+456,10.0,Gavin,Ireland,Happy customers,5,2019-06-21,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.8,Positive
+457,5.0,Deena,United States of America,Fair,2,2019-06-20,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+458,5.4,Ray,United States of America,Does not come up to the standard of a motel 6 but is 3 times the price,2,2019-06-20,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.0,0.0,Neutral
+459,9.2,Tom,United States of America,Awesome,1,2019-06-20,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+460,9.2,Ann,Ireland,Awesome,8,2019-06-19,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+461,4.6,Gerry,United States of America,Disappointing,3,2019-06-19,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.7,-0.6,Negative
+462,5.8,Roger,United States of America,Okay,3,2019-06-19,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",0.5,0.5,Positive
+463,10.0,Julie,United States of America,Loved it! We'll be back!,3,2019-06-17,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.4,0.4375,Positive
+464,5.8,Cheesemouse,United States of America,"This is a dirty, old, rundown hotel that survives on its relatively low price for its location.",1,2019-06-15,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.43333333333333335,-0.16666666666666666,Negative
+465,9.6,Anthea,New Zealand,happy it was well located and clean and staff very friendly,5,2019-06-14,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights",0.7833333333333333,0.5513888888888889,Positive
+466,9.6,Miriam,United States of America,A perfect place for the perfect San Francisco adventure that won't break the bank!,2,2019-06-14,"Leisure trip, Couple, Queen Room, Stayed 1 night",1.0,1.0,Positive
+467,5.4,Dana,United States of America,"Great location, comfortable bed",2,2019-06-13,"Leisure trip, Group, Queen Room, Stayed 1 night",0.775,0.6000000000000001,Positive
+468,9.2,Barbara,United States of America,Perfect for the rate and location was great,2,2019-06-13,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.875,0.9,Positive
+469,4.2,Marnie,Australia,Bit of a dump,1,2019-06-13,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+470,9.6,Dotts,Kenya,"Great location, affordable for SF",19,2019-06-13,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.75,0.8,Positive
+471,5.8,Brendan,Australia,"Ok for night or two, close to union square, but avoid the breakfast at all costs.",13,2019-06-12,"Family with young children, Twin Room with Two Twin Beds, Stayed 4 nights",0.5,0.5,Positive
+472,9.2,Julian,United States of America,Very cozy and charming hotel - would come again; potential for the offered breakfast,17,2019-06-12,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9916666666666667,0.14666666666666664,Positive
+473,5.8,John,New Zealand,Enjoyed our stay.,22,2019-06-12,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7,0.5,Positive
+474,9.6,Marlys,United States of America,"Pleasant stay, convenient location.",3,2019-05-09,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+475,10.0,Fred,United States of America,Exceptional,3,2019-05-09,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+476,5.0,J,Spain,"The staff offers a pretty bad service, the room was clean but no telephone signal.",2,2019-05-09,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights",0.5916666666666667,0.004166666666666707,Positive
+477,3.8,Luis,Argentina,Poor,5,2019-05-08,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+478,9.6,Marianne,Canada,It was great & would have liked to have stayed one more night to tour San Fran but they were booked,2,2019-05-08,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.6833333333333332,0.6333333333333333,Positive
+479,9.6,Thomas,United States of America,Superb location. Good bed and breakfast.,2,2019-05-07,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.8,0.85,Positive
+480,9.6,Jonathan,United States of America,Exceptional,16,2019-05-07,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+481,10.0,Carole,United States of America,Exceptional,1,2019-05-07,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+482,5.0,Elena,Denmark,Fair,44,2019-05-05,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+483,3.8,Elaine,Australia,It was expensive considering the condition of the hotel and rooms. Would not recommend this hotel,1,2019-05-04,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.7,-0.5,Negative
+484,9.2,Kevim,United States of America,Great location - walked to Oracle Park to catch a ball game - AND the Giants beat the Dodgers !!!!,1,2019-05-03,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.575,-0.08828124999999998,Negative
+485,5.4,Experienced,Germany,Fair,21,2019-05-01,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+486,3.8,Shirin,United States of America,I will never come back here. The cost is way to hight for an old hotel like this.,1,2019-04-30,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",0.1,0.05,Positive
+487,9.2,William,United States of America,It was good.,6,2019-04-29,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+488,10.0,Sara,United States of America,Would highly recommend!,3,2019-04-29,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.5399999999999999,0.2,Positive
+489,3.3,Narineh,United States of America,Poor,1,2019-04-29,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+490,2.9,Eric,United States of America,Horrible!!,1,2019-04-26,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,-1.0,Negative
+491,10.0,Carole,United States of America,Exceptional,1,2019-04-26,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+492,5.4,Connie,Singapore,Fair,6,2019-04-26,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+493,10.0,Paul,United States of America,Exceptional,14,2019-04-25,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+494,10.0,Carole,United States of America,Exceptional,3,2019-04-24,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+495,5.4,John,United States of America,Fair,1,2019-04-22,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9,0.7,Positive
+496,10.0,Judy,United States of America,Exceptional,1,2019-04-21,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+497,3.8,Paolo,Canada,Terrible! Never again,5,2019-04-21,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,-1.0,Negative
+498,10.0,Rebecca,United States of America,Exceptional,1,2019-04-21,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+499,9.6,Kevin,United States of America,Exceptional,55,2019-03-18,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+500,10.0,Rose,United States of America,"great, will be back",8,2019-03-18,"Leisure trip, Group, Queen Room, Stayed 3 nights",0.375,0.4,Positive
+501,10.0,Cynthia,United States of America,Exceptional,3,2019-03-17,"Group, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+502,10.0,Denise,United States of America,"Nice staff, clean rooms",6,2019-03-16,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.8500000000000001,0.48333333333333334,Positive
+503,9.2,Michelle,Australia,Great old Pub,7,2019-03-16,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.475,0.45,Positive
+504,5.8,Sharon,United States of America,"This hotel was probably spectacular one day, but it a bit price for what it is.",2,2019-03-15,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.9,0.6,Positive
+505,2.5,Salvatore,United States of America,Very Poor,2,2019-03-14,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",0.78,-0.52,Negative
+506,9.6,Steve,United States of America,Great visit in a conviently placed hotel.,7,2019-03-14,"Leisure trip, Group, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.75,0.8,Positive
+507,5.4,Mak,Australia,Fair,8,2019-03-14,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+508,2.5,Christian,United States of America,I will not return.,1,2019-03-14,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+509,5.8,Brooke,Australia,Definitely won’t be going back!,4,2019-03-14,"Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.25,0.0,Neutral
+510,5.8,Giovanna,Italy,Okay,7,2019-03-13,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+511,5.8,Susan,United States of America,Disappointing,1,2019-03-13,"Business trip, Couple, Queen Room, Stayed 1 night",0.7,-0.6,Negative
+512,10.0,Helen,Australia,"I was very happy there, and would recommend this hotel as a great place to stay.  Thank you.",10,2019-03-13,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 4 nights",0.875,0.9,Positive
+513,3.3,Gary,United States of America,Poor,3,2019-03-12,"Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+514,10.0,Patherau,Hong Kong,Exceptional,11,2019-03-12,"Leisure trip, Couple, Queen Room, Stayed 1 night",1.0,0.6666666666666666,Positive
+515,10.0,Leanne,United States of America,Exceptional,1,2019-03-11,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+516,9.2,Traveler,United States of America,Good for a solo traveler or a short stay for a two people.,2,2019-03-11,"Business trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.45000000000000007,0.35,Positive
+517,9.2,Mathesonsa,Canada,Good value hotel.,27,2019-03-11,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+518,2.5,Barbara,United States of America,Very Poor,1,2019-03-11,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.78,-0.52,Negative
+519,9.2,Linnea,United States of America,Really nice!,31,2019-03-10,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",1.0,0.75,Positive
+520,9.2,Diane,United States of America,Nice location at an affordable price. Small but comfortable room.,1,2019-03-10,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.7333333333333334,0.25,Positive
+521,10.0,Mark,United States of America,Exceptional,1,2019-03-09,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+522,9.6,Wolfgang,United States of America,It doesn't have to cost a fortune to stay at a good place in this very expensive town.,25,2019-03-09,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.755,0.024999999999999967,Positive
+523,9.6,Gayle,United States of America,Great place to stay for museum hopping.,1,2019-03-07,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.75,0.8,Positive
+524,9.6,Alan,Canada,Exceptional,18,2019-02-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+525,5.0,Hideaki,Australia,"the above reason, it was very hard to have good sleep with noise.",41,2019-02-06,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.4680555555555556,0.10694444444444441,Positive
+526,5.4,Mario,Canada,"Excellent location, but the hotel definitely needs some maintenance and breakfast improvement",7,2019-02-05,"Business trip, Couple, Queen Room, Stayed 3 nights",0.75,0.5,Positive
+527,5.8,Viviana,Costa Rica,Well located and nice staff. Poor pillows and terrible breakfast,2,2019-02-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.8666666666666667,-0.26666666666666666,Negative
+528,9.6,Serdar,United States of America,Exceptional,16,2019-02-04,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+529,9.2,Linda,Kenya,Awesome,16,2019-02-03,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+530,10.0,Jose,United States of America,Exceptional,2,2019-02-03,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+531,9.6,Martin,United States of America,👍,2,2019-02-02,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+532,10.0,Allan,United States of America,Enjoy the stay,1,2019-02-02,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5,0.4,Positive
+533,9.6,Carla,Mexico,"For the reasonable rate it was a great value. The staff was very attentive,  & the room comfortable.",2,2019-02-02,"Solo traveler, Queen Room, Stayed 2 nights",0.7875000000000001,0.48,Positive
+534,9.2,Linda,United States of America,We will be back.,1,2019-02-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+535,4.2,Carole,United States of America,poor....,2,2019-01-31,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.6,-0.4,Negative
+536,10.0,Sandra,France,"great room downtown - no outside noise, comfortable bed, beautiful furnishings",5,2019-01-31,"Leisure trip, Group, Queen Room, Stayed 1 night",0.65,0.5125000000000001,Positive
+537,10.0,Jason,United Kingdom,Exceptional,14,2019-01-31,"Leisure trip, Couple, Queen Room, Stayed 7 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+538,5.4,World,United States of America,Fair,1,2019-01-31,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+539,9.6,Angelina,United States of America,Exceptional,1,2019-01-30,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",1.0,0.6666666666666666,Positive
+540,4.6,Peter,New Zealand,"The location was great, but value for money doesn't even get close.",8,2019-01-30,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights",0.75,0.8,Positive
+541,4.2,Jim,United States of America,Put me on the first floor outside where is the heaters your conditioning generators it was,1,2019-01-30,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.19166666666666665,0.125,Positive
+542,10.0,Jennifer,United States of America,It was a fantastic hotel no extra fees or deposits they were helpful and very friendly!!,4,2019-01-30,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5499999999999999,0.3872395833333333,Positive
+543,9.2,Xin,United States of America,Awesome,1,2019-01-29,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+544,10.0,Åsa,Sweden,Exceptional,1,2019-01-29,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+545,9.6,Bogdan,Romania,Excellent location,7,2019-01-29,"Leisure trip, Family with young children, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+546,4.2,Ian,Australia,Staff behaviour was appalling. The barman had to be talked down after l raised questions concerning,3,2019-01-28,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5944444444444444,-0.25277777777777777,Negative
+547,9.6,Lori,United States of America,Exceptional,2,2019-01-28,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+548,5.8,Alfiya,United States of America,"I have good time in SF. I was in two museums, in Chana Town, Simfony holl. Last night was terrible.",3,2019-01-27,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5555555555555556,-0.10000000000000002,Negative
+549,5.4,Vasyl,United States of America,"terrible service, poor breakfast; rooms are ok",15,2018-12-31,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",0.7000000000000001,-0.3,Negative
+550,5.4,Christine,United States of America,Fair,3,2018-12-30,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9,0.7,Positive
+551,5.4,Oscar,United States of America,No thank you,1,2018-12-26,"Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+552,5.8,Susan,United States of America,Okay,2,2018-12-26,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.5,0.5,Positive
+553,9.2,Coleen,United States of America,All was very good. More than I expected.,2,2018-12-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.56,0.4366666666666666,Positive
+554,10.0,Maria,Austria,Exceptional,6,2018-12-25,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+555,9.2,Melinda,Australia,Great location. Everything you need for a short stay in SF.,3,2018-12-24,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.525,0.4,Positive
+556,9.2,Cassandra,United States of America,Awesome,1,2018-12-24,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+557,10.0,Alison,United States of America,Amazing San Francisco hotel,1,2018-12-24,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.6000000000000001,Positive
+558,10.0,Gregory,United States of America,This was my third time too stay here at this hotel and by far the best!,1,2018-12-23,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.43333333333333335,0.3666666666666667,Positive
+559,10.0,Deborah,United States of America,Hotel Beresford is a great place to stay!,4,2018-12-22,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.75,1.0,Positive
+560,5.4,Ng,Malaysia,I would not choose this hotel again .,6,2018-12-21,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+561,5.8,Aleksandra,United States of America,"It was okay, would not stay again.",4,2018-12-20,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5,0.5,Positive
+562,3.3,Jianan,United States of America,Poor,2,2018-12-20,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6,-0.4,Negative
+563,5.8,Ali,United States of America,Okay,7,2018-12-20,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+564,9.2,Jesus,United States of America,exelent,25,2018-12-18,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+565,10.0,Jackie,United States of America,overall very nice place and quiet,12,2018-12-18,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",0.4444444444444444,0.26,Positive
+566,5.8,Pedro,Brazil,Okay,4,2018-12-18,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.5,0.5,Positive
+567,9.2,Zihan,United States of America,Awesome,8,2018-12-17,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+568,2.9,Amy,United States of America,not recommend at all,2,2018-12-17,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights",0.0,0.0,Neutral
+569,9.2,Sarita,United States of America,I was pleasantly surprised. Will come back.,2,2018-12-17,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.45,0.05,Positive
+570,2.5,Kais,United States of America,Do not stay at Hotel Beresford,17,2018-12-15,"Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+571,10.0,Sandra,United States of America,Exceptional,3,2018-12-13,"Travelers with friends, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+572,9.2,Lorraine,United States of America,"Very comfortable, safe, clean and a GREAT location.  A hidden treasure.",21,2018-12-12,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6566666666666667,0.404,Positive
+573,10.0,Jane,United States of America,"Great location, okay price, nice people.  Can't ask for much more.",1,2018-12-12,"Group, Double Room with Two Double Beds, Stayed 2 nights",0.6875,0.6,Positive
+574,10.0,Rolando,Mexico,Clean and nice rooms. Very centric. Recomended,2,2018-11-07,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.61,0.32222222222222224,Positive
+575,10.0,Natalie,United States of America,It was great!,7,2018-11-05,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.75,1.0,Positive
+576,9.6,Rares,Romania,Do it !,1,2018-11-05,"Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+577,4.2,Harold,United States of America,Disappointing,3,2018-11-04,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+578,10.0,Sue,Australia,Thoroughly enjoyed our stay in lovely surroundings in a great location in SLO!,14,2018-10-30,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.7333333333333334,0.6666666666666666,Positive
+579,4.6,Grant,Canada,disappointing,1,2018-10-28,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.7,-0.6,Negative
+580,10.0,Jillian,United States of America,Exceptional,9,2018-10-28,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+581,5.4,Robert,Australia,Fair,10,2018-10-28,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights",0.9,0.7,Positive
+582,9.6,Erem,Turkey,Better than expected,2,2018-10-26,"Business trip, Solo traveler, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.45,0.2,Positive
+583,10.0,Jill,United States of America,Exceeded expectations. I would stay again.,14,2018-10-26,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 4 nights",0.0,0.0,Neutral
+584,4.2,Julie,United States of America,"The hotel old and dated, not worth the money!",3,2018-10-26,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 1 night",0.15000000000000002,-0.04375,Negative
+585,5.4,Munseon,South Korea,Fair,2,2018-10-25,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+586,5.8,Therese,United States of America,Okay,1,2018-10-24,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",0.5,0.5,Positive
+587,5.0,Elizabeth,United States of America,Fair,2,2018-10-24,"Family with young children, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+588,9.2,Robert,United States of America,Awesome,4,2018-10-24,"Leisure trip, Group, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+589,2.5,Jon,Australia,THIS PLACE IS A DUMP. DON'T STAY HERE.,8,2018-10-23,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+590,9.6,Carrie,United States of America,Exceptional,1,2018-10-23,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+591,4.6,Isabel,United Kingdom,Great location but a run down hotel,5,2018-10-23,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.5194444444444445,0.32222222222222224,Positive
+592,3.3,Branislav,United Kingdom,Poor,1,2018-10-23,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6,-0.4,Negative
+593,3.8,Branislav,United Kingdom,Poor,14,2018-10-23,"Leisure trip, Travelers with friends, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6,-0.4,Negative
+594,10.0,Adrienne,United States of America,Our favorite hotel,10,2018-10-21,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.5,Positive
+595,9.6,John,United States of America,Exceptional,3,2018-10-21,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+596,5.8,Charlene,United States of America,Okay,1,2018-10-20,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5,0.5,Positive
+597,5.8,Andi,United States of America,It was just ok,3,2018-10-19,"Business trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5,0.5,Positive
+598,3.3,Stephen,New Zealand,Poor,2,2018-10-17,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+599,5.4,Bobi,Cyprus,"Overall, it was an “okay” stay. Location was good, smells like a farm, staff - not friendly",20,2018-09-07,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.4,0.253125,Positive
+600,2.5,Adrian,United States of America,Disappointed. Fees for parking where not disclosed and I couldn’t cancel my stay. Staff arrogant,1,2018-09-06,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,-0.75,Negative
+601,3.8,Bodil,Sweden,Poor,2,2018-09-05,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.6,-0.4,Negative
+602,9.2,Soumajit,United States of America,Awesome,8,2018-09-05,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+603,9.2,Beth,United States of America,"Comfortable, good locatio",9,2018-09-05,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7000000000000001,0.55,Positive
+604,10.0,Jan,New Zealand,Excellent. First stop after long flight,11,2018-09-03,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.5777777777777778,0.39999999999999997,Positive
+605,5.4,Andrew,United Kingdom,"Location, location, location was the selling point. Pricey.",6,2018-09-03,"Leisure trip, Solo traveler, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+606,9.2,Protti,United States of America,Awesome,23,2018-09-03,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+607,5.0,Anna,United States of America,Fair,7,2018-09-02,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+608,10.0,Whoistheawesomeone,United States of America,Exceptional,8,2018-08-30,"Business trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+609,5.4,Nina,United States of America,Fair,10,2018-08-30,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+610,5.8,Dylan,Italy,Mediocre hotel,1,2018-08-30,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",1.0,-0.5,Negative
+611,9.2,Debra,United States of America,Awesome,6,2018-08-30,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+612,5.0,Gabriela,United States of America,Fair,2,2018-08-30,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+613,5.4,Rick,United States of America,Better choices,1,2018-08-29,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.5,0.5,Positive
+614,9.6,Reyna,United States of America,Exceptional,1,2018-08-29,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+615,4.2,Nick,Australia,Poor quality and bad breakfast,5,2018-08-28,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6333333333333333,-0.5499999999999999,Negative
+616,10.0,Getemdave,United States of America,Exceptional,1,2018-08-28,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+617,3.3,Yountraveler93,Germany,Horrible,5,2018-08-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,-1.0,Negative
+618,10.0,Karen,United States of America,I'd stay here again in a heartbeat!,7,2018-08-25,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.0,0.0,Neutral
+619,3.8,Carol,United States of America,Wouldn't stay again.,1,2018-08-23,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.0,0.0,Neutral
+620,9.6,Freidenreich,Israel,comfy beds. good location. good value for money at this time of year.,26,2018-08-23,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6000000000000001,0.7,Positive
+621,10.0,Adriana,United States of America,Exceptional,2,2018-08-23,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+622,4.6,Marielle,United States of America,Disappointing,5,2018-08-23,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+623,10.0,Peggy,United States of America,We want to come back!,1,2018-08-20,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+624,7.5,Anonymous,United States of America,Good,1,2019-12-03,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+625,8.3,Anonymous,United States of America,Very Good,1,2019-11-26,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+626,8.0,Anonymous,New Zealand,Good,1,2019-11-23,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights",0.6000000000000001,0.7,Positive
+627,7.0,Anonymous,United States of America,Good,1,2019-11-18,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+628,6.3,Anonymous,United Kingdom,Budget with poor customer service,17,2019-11-15,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 6 nights, Submitted from a mobile device",0.6,-0.4,Negative
+629,7.1,Anonymous,United States of America,Great location to see Harry Potter at the Curran,1,2019-11-11,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.75,0.8,Positive
+630,7.9,Anonymous,United States of America,Good,13,2019-11-11,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+631,8.3,Anonymous,United States of America,Very Good,3,2019-11-10,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+632,6.7,Anonymous,New Zealand,Patrick’s comments,15,2019-11-08,"Leisure trip, Couple, Queen Room, Stayed 10 nights, Submitted from a mobile device",0.0,0.0,Neutral
+633,6.3,Anonymous,United Kingdom,Pleasant,1,2019-10-26,"Leisure trip, Travelers with friends, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+634,8.8,Anonymous,United States of America,"Good stay for the money. Clean room and property, helpful staff, convenient location.",1,2019-10-24,"Leisure trip, Couple, Queen Room, Stayed 6 nights",0.6500000000000001,0.5333333333333333,Positive
+635,7.1,Anonymous,Australia,No Airconditioning,1,2019-10-24,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+636,8.8,Anonymous,United States of America,Excellent,4,2019-10-15,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 6 nights",1.0,1.0,Positive
+637,7.1,Anonymous,United States of America,Good,3,2019-10-07,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+638,8.0,Anonymous,United Kingdom,Very Good,6,2019-09-29,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights",0.7800000000000001,0.9099999999999999,Positive
+639,7.0,Anonymous,United States of America,We enjoyed our stay and would definitely stay here again if we were to go back to San Francisco.,3,2019-09-29,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.39999999999999997,0.16666666666666666,Positive
+640,6.3,Anonymous,Australia,Pleasant,4,2019-09-24,"Leisure trip, Couple, Room Selected at Check-In, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+641,8.8,Anonymous,Ireland,Excellent,1,2019-09-18,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+642,7.1,Anonymous,United States of America,San Franciso is a great city!! the location of this hotel is its main asset,5,2019-09-18,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 4 nights",0.5416666666666666,0.5833333333333334,Positive
+643,7.5,Anonymous,United States of America,Good,19,2019-09-14,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+644,8.8,Anonymous,United States of America,Excellent,4,2019-09-13,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+645,7.9,Anonymous,United Kingdom,Good,4,2019-09-12,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+646,7.9,Anonymous,Australia,"Peaceful room at back of hotel. Great location, close to transport & good restaurants",1,2019-09-11,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.4625,0.4375,Positive
+647,7.9,Anonymous,United States of America,Good,1,2019-09-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+648,7.9,Anonymous,New Zealand,Good,6,2019-09-01,"Leisure trip, Family with young children, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+649,8.3,Anonymous,Germany,Very Good,25,2019-01-01,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+650,7.9,Anonymous,United States of America,Good location,14,2018-12-26,"Leisure trip, Travelers with friends, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+651,6.5,Anonymous,United States of America,Good price and location,2,2018-12-19,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+652,7.9,Anonymous,Sweden,Good,12,2018-12-17,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+653,6.7,Anonymous,United States of America,Pleasant,1,2018-12-07,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+654,7.5,Anonymous,Malta,Good,12,2018-11-21,"Leisure trip, Couple, Queen Room, Stayed 4 nights",0.6000000000000001,0.7,Positive
+655,8.3,Anonymous,United States of America,Good,3,2018-11-21,"Business trip, Couple, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+656,8.3,Anonymous,United States of America,Nice old brownstone with some inconveniences,16,2018-11-20,"Business trip, Solo traveler, Queen Room, Stayed 10 nights, Submitted from a mobile device",0.6,0.35,Positive
+657,6.3,Anonymous,United States of America,Pleasant,1,2018-11-14,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+658,8.3,Anonymous,Australia,Overall it was adequate for a short stay and the staff made it a pleasant experience.,6,2018-11-10,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",0.4,0.26666666666666666,Positive
+659,7.1,Anonymous,United States of America,Happy to find the hotel,2,2018-10-24,"Business trip, Group, Room Selected at Check-In, Stayed 2 nights, Submitted from a mobile device",1.0,0.8,Positive
+660,8.3,Anonymous,Australia,"Enjoyed, front desk staff were informative and energetic",9,2018-10-22,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6,0.5,Positive
+661,7.5,Anonymous,Australia,Good,7,2018-10-20,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+662,8.3,Anonymous,United States of America,Very Good,2,2018-10-16,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+663,8.8,Anonymous,United Kingdom,I needed somewhere for an extra night in SF after a tour. This fit the bill and I would use again.,5,2018-10-15,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.25,0.2,Positive
+664,7.5,Anonymous,Canada,Good,3,2018-10-11,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+665,6.7,Anonymous,Turkey,Pleasant,31,2018-10-10,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+666,8.3,Anonymous,Ireland,"In general, basic but clean and location is perfect. We really enjoyed our stay.",4,2018-10-10,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.6050000000000001,0.38333333333333336,Positive
+667,6.0,Anonymous,United States of America,Won't stay again as the room charge was expensive,1,2018-10-09,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 4 nights",0.7,-0.5,Negative
+668,8.3,Anonymous,United States of America,"I have stayed here before and, for the price and location, it's a great value.",2,2018-10-06,"Leisure trip, Couple, Queen Room, Stayed 5 nights",0.75,0.8,Positive
+669,7.1,Anonymous,Australia,Expensive for what it was,11,2018-10-06,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.7,-0.5,Negative
+670,8.3,Anonymous,United States of America,I was treated very well. loved the location and the ambiance.,2,2018-10-02,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 2 nights",0.55,0.44999999999999996,Positive
+671,7.5,Anonymous,Australia,Good,1,2018-09-30,"Leisure trip, Couple, Room Selected at Check-In, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+672,7.1,Anonymous,Canada,Good,1,2018-09-29,"Leisure trip, Couple, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+673,8.8,Anonymous,United States of America,Excellent,1,2018-09-29,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+674,5.8,Anonymous,Israel,Okay,12,2019-10-15,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+675,4.6,Anonymous,United States of America,I would pick another hotel.,1,2019-10-14,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.0,0.0,Neutral
+676,10.0,Anonymous,United States of America,Exceptional,1,2019-10-04,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+677,4.2,Anonymous,Australia,Disappointing,1,2019-10-02,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+678,3.8,Anonymous,Jersey,Needs updating,1,2019-09-29,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+679,10.0,Anonymous,United Kingdom,Exceptional,15,2019-09-26,"Leisure trip, Travelers with friends, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+680,4.2,Anonymous,United Kingdom,Terrible,3,2019-09-23,"Leisure trip, Group, Room Selected at Check-In, Stayed 4 nights, Submitted from a mobile device",1.0,-1.0,Negative
+681,5.4,Anonymous,New Zealand,"Wouldn’t stay here again.  The hotel is not a 3 star, definitely only 2",7,2019-09-20,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.0,Neutral
+682,5.8,Anonymous,Australia,Basic stuff,13,2019-09-19,"Leisure trip, Solo traveler, Room Selected at Check-In, Stayed 3 nights, Submitted from a mobile device",0.125,0.0,Neutral
+683,3.3,Anonymous,Australia,Poor,14,2019-09-14,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6,-0.4,Negative
+684,10.0,Anonymous,Czech Republic,Excellent experience,6,2019-09-12,"Leisure trip, Group, Queen Room, Stayed 7 nights",1.0,1.0,Positive
+685,9.2,Anonymous,United States of America,Awesome,1,2019-08-18,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+686,9.6,Anonymous,United States of America,Good deal,1,2019-08-12,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+687,9.6,Anonymous,United States of America,A little gem amongst the giants.,1,2019-08-10,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.5,-0.1875,Negative
+688,9.6,Anonymous,New Zealand,Exceptional,1,2019-08-09,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+689,9.2,Anonymous,Canada,Awesome,4,2019-08-08,"Leisure trip, Family with young children, Queen Room, Stayed 7 nights, Submitted from a mobile device",1.0,1.0,Positive
+690,10.0,Anonymous,United States of America,Good value,1,2019-08-05,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+691,5.4,Anonymous,United States of America,I wouldn’t recommend this place.,1,2019-07-21,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+692,9.2,Anonymous,Germany,Excellent!,5,2019-07-20,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+693,9.2,Anonymous,United States of America,Awesome,1,2019-07-19,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+694,3.8,Anonymous,United States of America,Poor,1,2019-07-17,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+695,5.0,Anonymous,Netherlands,Fair,8,2019-07-14,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.9,0.7,Positive
+696,3.3,Anonymous,United States of America,Overpriced dump!,3,2019-07-13,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.0,0.0,Neutral
+697,5.8,Anonymous,Sweden,Okay,21,2019-07-12,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.5,0.5,Positive
+698,5.4,Anonymous,New Zealand,Met our needs for closeness to town center but definitely felt a little seedy,9,2019-07-09,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.3666666666666667,-0.09583333333333333,Negative
+699,5.8,Anonymous,United States of America,Meh.,2,2018-09-24,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.0,0.0,Neutral
+700,10.0,Anonymous,Ireland,Lovely cosy old Victorian hotel close to everything,3,2018-09-19,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.475,0.3,Positive
+701,5.8,Anonymous,Canada,Small and Loud,13,2018-09-16,"Leisure trip, Travelers with friends, Queen Room, Stayed 8 nights, Submitted from a mobile device",0.6000000000000001,-0.075,Negative
+702,5.0,Anonymous,United Arab Emirates,Avoid this hotel,13,2018-09-14,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.0,0.0,Neutral
+703,5.0,Anonymous,Switzerland,"Could do better, so much potential...",6,2018-09-10,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.75,0.25,Positive
+704,5.0,Anonymous,Australia,Fair,71,2018-09-05,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+705,4.6,Anonymous,United States of America,Disappointing,1,2018-08-22,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7,-0.6,Negative
+706,9.6,Anonymous,Australia,Exceptional,2,2018-08-21,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+707,10.0,Anonymous,United States of America,"Great place, great staff, great location",1,2018-08-16,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,0.8000000000000002,Positive
+708,9.6,Anonymous,Philippines,Exceptional,19,2018-08-04,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 6 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+709,8.0,Adryansyah,Indonesia,Very Good,24,2020-03-24,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+710,8.0,Tyler,United States of America,Very Good,1,2020-03-22,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+711,8.0,Ken,United States of America,Very Good,2,2020-03-21,"Leisure trip, Couple, Queen Room, Stayed 14 nights",0.7800000000000001,0.9099999999999999,Positive
+712,8.0,Jeannine,United States of America,Very Good,11,2020-03-21,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+713,8.0,Bineeta,United States of America,Very Good,1,2020-03-11,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+714,7.0,Thiagovsdiniz,Brazil,Good,4,2020-03-09,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+715,7.5,Dominik,Germany,Good,6,2020-03-07,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+716,8.0,Mario,United States of America,Very Good,3,2020-03-06,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+717,8.0,Jessie,Sweden,Very Good,2,2020-03-06,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+718,7.0,Sungsim,South Korea,Good,5,2020-03-01,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+719,8.0,David,Australia,Very Good,1,2020-02-29,"Business trip, Solo traveler, Queen Room, Stayed 8 nights",0.7800000000000001,0.9099999999999999,Positive
+720,7.9,Eesaa,United States of America,Good,2,2020-02-29,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+721,8.8,Lucia,United States of America,Excellent,1,2020-02-25,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+722,8.3,Annie,United States of America,Very Good,1,2020-02-25,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+723,8.0,Jimena,United States of America,Very Good,1,2020-02-24,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+724,8.0,Dhaval,United States of America,Very Good,1,2020-01-04,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+725,8.3,Roselyne,Australia,Very Good,5,2020-01-03,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+726,7.0,Mitch,United States of America,Good,1,2020-01-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+727,7.5,Himanshu,India,Good,2,2020-01-01,"Leisure trip, Travelers with friends, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+728,7.0,California_couple,United States of America,Good,7,2019-12-30,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+729,7.0,Chao,Hong Kong,Good,3,2019-12-26,"Leisure trip, Family with young children, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+730,7.9,Mireia,Spain,Good,8,2019-12-24,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+731,7.0,Mark,Australia,Good,1,2019-12-23,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night",0.6000000000000001,0.7,Positive
+732,8.0,Katelyn,United States of America,Very Good,2,2019-12-23,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+733,8.0,Julian,United States of America,Very Good,7,2019-12-22,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+734,8.3,Debra,United States of America,Very Good,5,2019-12-20,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+735,8.0,James,United States of America,Very Good,2,2019-12-17,"Leisure trip, Group, Queen Room, Stayed 2 nights",0.7800000000000001,0.9099999999999999,Positive
+736,7.0,Stevan,Serbia,Good,1,2019-12-17,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights",0.6000000000000001,0.7,Positive
+737,8.0,Lizeth,United States of America,Very Good,1,2019-12-16,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+738,8.0,Patrick,United States of America,Very Good,5,2019-12-15,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.7800000000000001,0.9099999999999999,Positive
+739,8.0,Jennifer,United States of America,Very Good,1,2019-12-15,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+740,7.0,Kent,United States of America,Good,1,2019-12-11,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+741,7.0,Katrina,Australia,Good,3,2019-12-11,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+742,7.0,Kay,United States of America,Good,4,2019-12-08,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+743,8.8,Khaled,United States of America,Excellent,9,2019-12-06,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+744,8.0,Howard,United States of America,Very Good,1,2019-12-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+745,7.5,Julie,United States of America,Good,1,2019-12-04,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+746,7.0,Nestor,United States of America,Good,1,2019-12-04,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+747,8.0,Immaculate,United States of America,Very Good,1,2019-12-02,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights",0.7800000000000001,0.9099999999999999,Positive
+748,7.0,Julia,Russia,Good,53,2019-12-01,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+749,8.8,Odette,United States of America,Excellent,7,2019-09-19,"Business trip, Group, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+750,7.5,Shankaran,United States of America,Keep up the good work.,1,2019-09-19,"Business trip, Solo traveler, Room Selected at Check-In, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+751,8.8,Bruno,Portugal,Excellent,6,2019-09-19,"Leisure trip, Couple, Room Selected at Check-In, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+752,7.9,Douglas,United States of America,Good,2,2019-09-19,"Leisure trip, Couple, Room Selected at Check-In, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+753,7.1,Chad,United States of America,Good,1,2019-09-17,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+754,8.8,Julian,United Kingdom,Excellent,70,2019-09-15,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+755,7.9,Adessa,United States of America,Good,5,2019-09-14,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+756,7.5,Guillermo,United States of America,Good,1,2019-09-13,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+757,7.9,Cynthia,United States of America,Good,1,2019-09-08,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+758,8.8,Angelita,United States of America,Excellent,7,2019-09-07,"Leisure trip, Family with young children, Queen Room, Stayed 10 nights, Submitted from a mobile device",1.0,1.0,Positive
+759,7.9,Steven,United States of America,Good,1,2019-09-06,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+760,6.7,Jeannie,Australia,Pleasant,2,2019-09-04,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+761,7.5,Ross,United States of America,Good,1,2019-09-04,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+762,7.1,Rosemartha,United States of America,Good,2,2019-09-03,"Business trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+763,7.5,Rob,Australia,Good,33,2019-09-01,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+764,6.3,Trieste,Canada,Pleasant,20,2019-08-29,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights",0.9666666666666667,0.7333333333333333,Positive
+765,8.8,Ollie,United Kingdom,Excellent,1,2019-08-29,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+766,6.7,User81,United States of America,Pleasant,1,2019-08-28,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+767,6.7,Terry,United States of America,Pleasant,2,2019-08-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+768,7.9,Dylan,United States of America,Good,4,2019-08-24,"Business trip, Family with young children, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+769,8.3,Roger,United States of America,Very Good,1,2019-08-23,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights",0.7800000000000001,0.9099999999999999,Positive
+770,8.3,Chrishelle,United States of America,Very Good,2,2019-08-22,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+771,8.8,Mia,Australia,Excellent,4,2019-08-22,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+772,8.3,Denise,Australia,Very Good,14,2019-08-22,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+773,7.5,Simone,Italy,Good,12,2019-08-21,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+774,7.5,Dianna,Australia,Good,3,2019-06-13,"Business trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+775,8.8,Colton,United States of America,Excellent,2,2019-06-12,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+776,7.5,Rodney,Australia,Good,9,2019-06-05,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+777,8.3,George,United States of America,Very Good,2,2019-06-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+778,8.8,Samuel,United States of America,Excellent,2,2019-06-04,"Business trip, Group, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+779,8.3,Stephen,United States of America,Very Good,1,2019-06-03,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+780,7.5,Tania,United States of America,Good,2,2019-06-02,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+781,7.5,Ian,United Kingdom,Good,21,2019-05-30,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights",0.6000000000000001,0.7,Positive
+782,7.1,Cheryle,United States of America,Good,4,2019-05-29,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+783,6.7,Ashleigh,United States of America,Pleasant,3,2019-05-26,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+784,7.9,Donna,United States of America,Good,35,2019-05-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6000000000000001,0.7,Positive
+785,7.9,Emilio,United States of America,Good,3,2019-05-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+786,7.5,Jeffeory,United States of America,Good,1,2019-05-25,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+787,7.5,Sirivarin,Thailand,Good,4,2019-05-23,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+788,8.3,Tiff,Australia,Very Good,1,2019-05-22,"Leisure trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+789,7.1,Sharon,United States of America,Good,18,2019-05-19,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+790,8.3,June,United States of America,Very Good,17,2019-05-18,"Business trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+791,6.3,Birgit,Denmark,Pleasant,9,2019-05-18,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights",0.9666666666666667,0.7333333333333333,Positive
+792,8.3,Luca,Italy,Very Good,41,2019-05-18,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+793,7.5,Vincent,United States of America,Good,1,2019-05-15,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+794,8.3,Palwasha,United States of America,Very Good,4,2019-05-15,"Business trip, Travelers with friends, Queen Room, Stayed 7 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+795,7.5,Derek,United States of America,Good,1,2019-05-14,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+796,7.5,Fon,Ireland,Good,6,2019-05-13,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+797,8.8,Linda,United Kingdom,Excellent,2,2019-05-13,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 4 nights",1.0,1.0,Positive
+798,8.8,Yelena,United States of America,Excellent,1,2019-05-09,"Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+799,6.7,Helen,United States of America,Pleasant,1,2019-03-12,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+800,8.8,Jason,Canada,Excellent,27,2019-03-11,"Business trip, Group, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+801,7.9,Allan,Botswana,Good,7,2019-03-11,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+802,8.3,Luanne,United States of America,Very Good,17,2019-03-10,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+803,8.3,Marissa,United States of America,Very Good,1,2019-03-10,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+804,7.5,Marc,United States of America,Good,34,2019-03-09,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6000000000000001,0.7,Positive
+805,7.9,Serene,United States of America,Good,1,2019-03-08,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+806,7.1,Elizabeth,United States of America,Good,4,2019-03-07,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+807,7.9,Gábor,Hungary,Good,6,2019-03-06,"Business trip, Couple, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+808,7.5,Elizabeth,United States of America,Good,1,2019-03-05,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+809,8.3,Matthias,Germany,Very Good,27,2019-03-05,"Business trip, Solo traveler, Queen Room, Stayed 7 nights",0.7800000000000001,0.9099999999999999,Positive
+810,8.8,Marti,United States of America,Excellent,18,2019-03-04,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+811,6.3,Michael,Ireland,Pleasant,19,2019-03-04,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+812,7.9,Blen,United States of America,Good,1,2019-03-03,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+813,6.7,Mary,United States of America,Pleasant,1,2019-03-03,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+814,8.3,Nicolas,France,Very Good,4,2019-03-02,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+815,7.1,Antje,Australia,Good,1,2019-03-02,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+816,7.9,Georgios,Greece,Good,1,2019-02-27,"Business trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+817,6.7,Marcio,United States of America,Pleasant,10,2019-02-25,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+818,7.1,Miroslav,Czech Republic,Good,10,2019-02-25,"Business trip, Group, Queen Room, Stayed 4 nights",0.6000000000000001,0.7,Positive
+819,7.5,Aggie,United States of America,Good,5,2019-02-24,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+820,8.8,Iftikhar,Oman,Excellent,2,2019-02-22,"Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+821,6.7,Fabian,United States of America,Pleasant,2,2019-02-21,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+822,7.9,Lloyd,Australia,Good,6,2019-02-20,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+823,6.3,Jeny,United States of America,Pleasant,2,2019-02-19,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.9666666666666667,0.7333333333333333,Positive
+824,8.8,Tony,United States of America,Excellent,1,2018-12-09,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+825,7.5,William,United States of America,Good,3,2018-12-09,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+826,7.5,John,United States of America,Good,13,2018-12-08,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+827,7.5,Darren,United Kingdom,Good,6,2018-12-08,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+828,7.9,Clark,United States of America,Good value for the price,4,2018-12-07,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+829,7.5,Kelly,United States of America,Good,2,2018-12-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+830,7.1,Richard,United States of America,Good,6,2018-12-04,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+831,6.7,David,United States of America,Good value,1,2018-12-03,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+832,8.3,David,United States of America,Very Good,1,2018-11-29,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+833,7.9,Roger,United States of America,Good,2,2018-11-29,"Leisure trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+834,6.3,Janette,Australia,Pleasant,3,2018-11-29,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+835,7.5,Theresa,Germany,Good,6,2018-11-28,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights",0.6000000000000001,0.7,Positive
+836,8.3,Joseph,United States of America,Very Good,2,2018-11-24,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+837,8.3,Jitka,Canada,Very Good,19,2018-11-21,"Leisure trip, Travelers with friends, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+838,7.5,Pairote,Thailand,Good,2,2018-11-21,"Business trip, Travelers with friends, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+839,7.5,Norma,United States of America,Good,3,2018-11-20,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+840,8.8,Colleen,United States of America,"We got a great price of $89 on booking.com . Very clean, bed was comfy, like an old boutique hotel.",1,2018-11-19,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.62,0.45888888888888896,Positive
+841,6.7,Jairo,Costa Rica,Pleasant,1,2018-11-17,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+842,7.5,Kevin,United States of America,Good,5,2018-11-17,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+843,8.3,Roger,United States of America,Very Good,3,2018-11-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+844,6.3,Jayme,United States of America,Pleasant,1,2018-11-16,"Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+845,7.5,Savan117,United States of America,Good,6,2018-11-15,"Leisure trip, Group, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+846,7.5,Paweł,Poland,Good,26,2018-11-15,"Business trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights",0.6000000000000001,0.7,Positive
+847,8.8,Lisa,Australia,Excellent,2,2018-11-15,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",1.0,1.0,Positive
+848,7.5,Carlin,United States of America,Good,1,2018-11-15,"Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+849,6.7,Kim,United States of America,Pleasant,2,2018-10-01,"Leisure trip, Solo traveler, Room Selected at Check-In, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+850,7.5,Getulio,United States of America,Good,10,2018-09-28,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+851,6.7,Fred,United States of America,Pleasant,1,2018-09-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+852,8.8,Anne,United States of America,Excellent,1,2018-09-25,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+853,7.1,Loren,United States of America,Good,1,2018-09-25,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights",0.6000000000000001,0.7,Positive
+854,8.3,Geir,Norway,Very Good,1,2018-09-24,"Business trip, Couple, Queen Room, Stayed 7 nights",0.7800000000000001,0.9099999999999999,Positive
+855,7.9,Mary,United States of America,Good,2,2018-09-21,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+856,8.8,Jaime,United States of America,Excellent,2,2018-09-21,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+857,7.9,Stephen,Australia,Good,1,2018-09-20,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+858,8.5,Bev,Australia,Very Good,7,2018-09-20,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+859,7.5,Raimer,Dominican Republic,Good,3,2018-09-19,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+860,6.7,Louise,Canada,Pleasant,18,2018-09-18,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+861,6.9,David,Australia,Pleasant,2,2018-09-18,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+862,8.0,Alicia,United States of America,Very Good,3,2018-09-18,"Leisure trip, Solo traveler, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+863,7.5,Mariana,Canada,Good,13,2018-09-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+864,8.3,Stephen,Australia,Very Good,28,2018-09-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+865,8.8,Mark,New Zealand,Excellent,1,2018-09-16,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+866,7.9,Maria,United States of America,Good,4,2018-09-15,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+867,8.3,Nagi̇han,Turkey,Very Good,3,2018-09-14,"Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+868,6.3,Roland,Hungary,Pleasant,3,2018-09-12,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights",0.9666666666666667,0.7333333333333333,Positive
+869,8.3,Ramon,Philippines,Very Good,2,2018-09-07,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+870,8.3,토토렐라,South Korea,Very Good,42,2018-09-07,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+871,7.9,Evren,Turkey,Good,1,2018-09-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+872,7.5,Kylie,United States of America,Good,1,2018-09-05,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+873,8.8,Cesar,United States of America,Excellent,4,2018-09-03,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+874,9.0,Cvl,United States of America,Baseball convenient restaurant next-door or in hotel was excellent,1,2020-02-02,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",1.0,1.0,Positive
+875,3.0,Brandi,United States of America,Poor,1,2020-02-02,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6,-0.4,Negative
+876,9.0,Nitiphat,Thailand,Awesome,1,2020-01-30,"Business trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+877,9.0,Richard,United States of America,Awesome,4,2020-01-28,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+878,3.8,Shi,China,Poor,3,2020-01-28,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 5 nights, Submitted from a mobile device",0.6,-0.4,Negative
+879,10.0,Kari,United States of America,Exceptional,2,2020-01-27,"Leisure trip, Solo traveler, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+880,10.0,Frisco,United States of America,Exceptional,1,2020-01-26,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+881,2.0,Satish,Singapore,Very Poor,8,2020-01-26,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.78,-0.52,Negative
+882,10.0,Felecia,United States of America,Exceptional,11,2020-01-24,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 4 nights",1.0,0.6666666666666666,Positive
+883,10.0,Thomas,United States of America,Exceptional,1,2020-01-22,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night",1.0,0.6666666666666666,Positive
+884,9.0,Chen,Singapore,Awesome,11,2020-01-21,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+885,9.0,George,United States of America,Awesome,2,2020-01-20,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+886,10.0,Bradley,South Africa,Definitely want to come back!,11,2020-01-18,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.25,0.0,Neutral
+887,10.0,Janette,United States of America,Exceptional,1,2020-01-17,"Business trip, Couple, Queen Room, Stayed 1 night",1.0,0.6666666666666666,Positive
+888,10.0,Joel,United States of America,Exceptional,1,2020-01-17,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+889,10.0,Kimberley,United States of America,Exceptional,9,2020-01-14,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+890,9.6,Vanessa,United States of America,Exceptional,3,2020-01-14,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+891,9.6,Kylie,Australia,Exceptional,20,2020-01-14,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+892,9.6,Cori,United States of America,Exceptional,1,2020-01-13,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+893,10.0,Peter,United States of America,Exceptional,3,2020-01-11,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+894,1.0,Anton,Montenegro,Very Poor,3,2020-01-09,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",0.78,-0.52,Negative
+895,10.0,Melaney,United States of America,Exceptional,1,2020-01-08,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+896,3.0,Albert,United States of America,Poor,1,2020-01-08,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.6,-0.4,Negative
+897,10.0,Mac,United States of America,Exceptional,3,2020-01-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+898,9.0,Fredperi9999,United States of America,Awesome,1,2020-01-06,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+899,9.2,Sandra,United States of America,Awesome,1,2019-09-17,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+900,4.2,Rana,Israel,Disappointing,3,2019-09-16,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.7,-0.6,Negative
+901,10.0,Todd,United States of America,Great Place I would stay again!,2,2019-09-15,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.75,1.0,Positive
+902,10.0,Jeffrey,Canada,Exceptional,11,2019-09-13,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+903,10.0,Tomie,United States of America,Exceptional,2,2019-09-13,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+904,10.0,Christina,United States of America,Exceptional,10,2019-09-13,"With a pet, Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+905,10.0,Lorraine,United States of America,"Nice hotel, great staff and excellent location.",7,2019-09-09,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",0.9166666666666666,0.7999999999999999,Positive
+906,9.6,Kyle,United States of America,Exceptional,1,2019-09-09,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+907,10.0,Rachel,United States of America,Exceptional,1,2019-09-07,"Leisure trip, Travelers with friends, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+908,10.0,Vivienne,Australia,Exceptional,3,2019-09-07,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+909,3.8,Jennifer,United States of America,Poor,3,2019-09-03,"Leisure trip, Couple, Queen Room, Stayed 2 nights",0.6,-0.4,Negative
+910,9.2,Justin,United States of America,Awesome,1,2019-09-03,"Business trip, Solo traveler, Queen Room, Stayed 1 night",1.0,1.0,Positive
+911,5.8,John,United States of America,Okay,1,2019-08-26,"Leisure trip, Couple, Queen Room, Stayed 1 night",0.5,0.5,Positive
+912,5.8,Sara,United States of America,Okay,10,2019-08-25,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+913,9.2,Rutherford,United States of America,"Nice staff; appliances need care... e.g., shower dripping, and pub is a nice touch but eggs at breab",1,2019-08-23,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6,Positive
+914,9.6,Hamid,United States of America,Exceptional,1,2019-08-21,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+915,9.6,Alan,United States of America,Exceptional,1,2019-08-20,"Leisure trip, Family with young children, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+916,5.0,Colin,United States of America,Fair,1,2019-08-18,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.9,0.7,Positive
+917,10.0,Christine,United States of America,Exceptional,12,2019-08-15,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+918,10.0,Przemyslaw,United States of America,Exceptional,5,2019-08-15,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 1 night",1.0,0.6666666666666666,Positive
+919,5.8,Brian,Canada,Okay,15,2019-08-13,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 5 nights, Submitted from a mobile device",0.5,0.5,Positive
+920,10.0,Mark,United States of America,Exceptional,1,2019-08-08,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+921,9.6,Patrick,United States of America,Exceptional,1,2019-08-07,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+922,9.6,Karen,United States of America,It was very pleasant stay.,1,2019-08-06,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.9533333333333333,Positive
+923,10.0,Peter,United States of America,Exceptional,4,2019-08-05,"Business trip, Solo traveler, Queen Room, Stayed 3 nights",1.0,0.6666666666666666,Positive
+924,9.2,Inna,Philippines,Awesome,1,2019-05-23,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+925,10.0,Kathy,United States of America,Exceptional,1,2019-05-23,"Leisure trip, Solo traveler, Queen Room, Stayed 4 nights",1.0,0.6666666666666666,Positive
+926,10.0,Katherine,United States of America,Exceptional,2,2019-05-22,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",1.0,0.6666666666666666,Positive
+927,9.2,Linas,United States of America,Awesome,2,2019-05-17,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+928,9.6,Lynne,United States of America,Exceptional,1,2019-05-13,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+929,10.0,Katherine,United States of America,Exceptional,1,2019-05-13,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights",1.0,0.6666666666666666,Positive
+930,10.0,Belinda,Australia,Exceptional,2,2019-05-11,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+931,5.8,Eric,France,Okay,1,2019-05-08,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.5,0.5,Positive
+932,10.0,Robert,United States of America,Exceptional,2,2019-05-07,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 7 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+933,10.0,Karlooz,United States of America,Exceptional,8,2019-05-06,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+934,5.8,Suresh,India,Okay,1,2019-05-06,"Family with young children, Queen Room, Stayed 2 nights",0.5,0.5,Positive
+935,9.6,Suellen,United States of America,Exceptional,1,2019-05-05,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+936,5.0,Tannia,United States of America,Fair,1,2019-05-05,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+937,9.5,Laura,United States of America,Exceptional,3,2019-05-04,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+938,2.9,Jess,United States of America,Very Poor,1,2019-05-02,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.78,-0.52,Negative
+939,9.6,Elena,Russia,Exceptional,1,2019-04-30,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights",1.0,0.6666666666666666,Positive
+940,5.0,Olga,United States of America,"Guy who carrying our luggage very annoying, angry and not respectful without his tips. Everything else was ok. Reception",7,2019-04-30,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.8,-0.3125,Negative
+941,10.0,Marie,France,Exceptional,1,2019-04-29,"Solo traveler, Twin Room with Two Twin Beds, Stayed 1 night",1.0,0.6666666666666666,Positive
+942,9.2,Jonathan,United Kingdom,Awesome,11,2019-04-28,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+943,10.0,Heidi,United Kingdom,Exceptional,17,2019-04-25,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+944,5.0,Matt,Israel,Fair,2,2019-04-25,"Leisure trip, Group, Queen Room, Stayed 4 nights",0.9,0.7,Positive
+945,5.0,Víctor,Panama,Fair,9,2019-04-22,"Business trip, Solo traveler, Queen Room, Stayed 4 nights, Submitted from a mobile device",0.9,0.7,Positive
+946,9.2,Alexander,Russia,Awesome,12,2019-04-19,"Business trip, Group, Queen Room, Stayed 6 nights",1.0,1.0,Positive
+947,9.2,Shamima,United States of America,Awesome,1,2019-04-19,"Business trip, Solo traveler, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+948,9.2,David,United States of America,Awesome,2,2019-04-18,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,1.0,Positive
+949,10.0,John,United States of America,Exceptional,1,2019-01-28,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+950,5.8,Anthony,United Kingdom,Okay,8,2019-01-28,"Leisure trip, Couple, Queen Room, Stayed 5 nights",0.5,0.5,Positive
+951,10.0,Maryhelen,United States of America,Exceptional,5,2019-01-27,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+952,9.2,Cari,United States of America,Awesome,1,2019-01-27,"Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+953,5.4,Amir,United States of America,Fair,5,2019-01-26,"Leisure trip, Family with young children, Queen Room, Stayed 2 nights",0.9,0.7,Positive
+954,9.2,Haley,United States of America,Awesome,1,2019-01-25,"Leisure trip, Group, Queen Room, Stayed 2 nights",1.0,1.0,Positive
+955,2.9,Omar,United States of America,Very Poor,7,2019-01-24,"With a pet, Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.78,-0.52,Negative
+956,9.6,Eugenio,Costa Rica,Exceptional,2,2019-01-23,"Leisure trip, Family with young children, Double Room with Two Double Beds, Stayed 7 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+957,10.0,Melody,United States of America,Exceptional,1,2019-01-23,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+958,9.2,Yueming,Ireland,Awesome,1,2019-01-23,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",1.0,1.0,Positive
+959,5.4,Shira,United States of America,Fair,1,2019-01-22,"Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.9,0.7,Positive
+960,4.6,Oleg,Ukraine,Disappointing,11,2019-01-21,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 2 nights",0.7,-0.6,Negative
+961,10.0,Sinhyo,United States of America,Exceptional,4,2019-01-20,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+962,10.0,Hector,United States of America,Exceptional,3,2019-01-19,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+963,5.4,Elena,United States of America,Fair,2,2019-01-19,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",0.9,0.7,Positive
+964,9.2,Lizeth,Philippines,Awesome,8,2019-01-18,"Business trip, Group, Twin Room with Two Twin Beds, Stayed 6 nights",1.0,1.0,Positive
+965,10.0,Nicole,United States of America,Exceptional,2,2019-01-15,"Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+966,9.6,Haiboyu,United States of America,Exceptional,13,2019-01-09,"Business trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+967,9.2,Mark,United States of America,Awesome,14,2019-01-06,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,1.0,Positive
+968,2.9,José,United States of America,Very Poor,11,2018-12-30,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",0.78,-0.52,Negative
+969,10.0,Vigen,United States of America,Exceptional,1,2018-12-28,"Leisure trip, Group, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+970,10.0,Ricky,United States of America,Exceptional,11,2018-12-27,"Leisure trip, Couple, Queen Room, Stayed 1 night",1.0,0.6666666666666666,Positive
+971,5.0,Hao,Norway,Fair,1,2018-12-24,"Leisure trip, Family with young children, Queen Room, Stayed 3 nights",0.9,0.7,Positive
+972,5.4,Chloe,United States of America,Fair,1,2018-12-21,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.9,0.7,Positive
+973,9.2,Angela,Australia,Awesome,13,2018-12-21,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 1 night",1.0,1.0,Positive
+974,9.2,Micheal,Ireland,Awesome,4,2018-09-23,"Leisure trip, Couple, Queen Room, Stayed 4 nights",1.0,1.0,Positive
+975,9.6,Gail,United States of America,Exceptional,1,2018-09-20,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+976,10.0,Liam,United States of America,Exceptional,2,2018-09-13,"Leisure trip, Couple, Double Room with Two Double Beds, Stayed 1 night",1.0,0.6666666666666666,Positive
+977,10.0,Rachael,Jersey,Exceptional,4,2018-09-10,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 4 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+978,9.2,Ron,United States of America,Awesome,14,2018-09-05,"Leisure trip, Couple, Queen Room, Stayed 1 night",1.0,1.0,Positive
+979,10.0,Guy,United States of America,Exceptional,2,2018-09-03,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+980,5.8,Joan,Spain,Okay,13,2018-09-03,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.5,0.5,Positive
+981,5.8,Janet,United States of America,Okay,7,2018-09-01,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.5,0.5,Positive
+982,9.6,Débora,Brazil,Exceptional,7,2018-09-01,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 5 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+983,10.0,Shiera,United States of America,Exceptional,7,2018-08-29,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+984,5.4,David,Australia,Fair,9,2018-08-29,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights",0.9,0.7,Positive
+985,10.0,Wendy,United States of America,Exceptional,11,2018-08-26,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+986,9.6,Laverne,United States of America,Exceptional,3,2018-08-20,"Family with young children, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+987,2.5,John,United States of America,Very Poor,11,2018-08-13,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.78,-0.52,Negative
+988,4.2,Alexander,Canada,Disappointing,10,2018-08-07,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights",0.7,-0.6,Negative
+989,10.0,Erlinda,United States of America,Exceptional,1,2018-08-04,"Leisure trip, Group, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+990,10.0,Allan,New Zealand,Exceptional,5,2018-08-03,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+991,7.0,Anonymous,Brazil,Good,1,2020-03-21,"Business trip, Couple, Queen Room, Stayed 18 nights",0.6000000000000001,0.7,Positive
+992,7.1,Anonymous,United States of America,Good,2,2020-03-15,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+993,8.0,Anonymous,New Zealand,Very Good,4,2020-03-11,"Leisure trip, Couple, Queen Room, Stayed 5 nights",0.7800000000000001,0.9099999999999999,Positive
+994,6.0,Anonymous,United States of America,Pleasant,1,2020-03-07,"Leisure trip, Couple, Queen Room, Stayed 3 nights",0.9666666666666667,0.7333333333333333,Positive
+995,8.0,Anonymous,United States of America,Very Good,1,2020-02-26,"Business trip, Couple, Queen Room, Stayed 2 nights",0.7800000000000001,0.9099999999999999,Positive
+996,7.5,Anonymous,United States of America,Good,1,2020-02-25,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+997,7.0,Anonymous,United States of America,Good,1,2020-02-25,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+998,8.0,Anonymous,United States of America,Very Good,1,2020-02-21,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 1 night",0.7800000000000001,0.9099999999999999,Positive
+999,7.9,Anonymous,United States of America,Good,2,2019-05-26,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1000,7.5,Anonymous,Australia,Good,2,2019-05-20,"Leisure trip, Couple, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1001,6.7,Anonymous,United States of America,Pleasant,1,2019-05-15,"Leisure trip, Travelers with friends, Double Room with Two Double Beds, Stayed 1 night, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+1002,7.5,Anonymous,United States of America,Good,1,2019-05-14,"Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1003,7.9,Anonymous,India,Good,1,2019-04-28,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 9 nights",0.6000000000000001,0.7,Positive
+1004,8.3,Anonymous,Brazil,Very Good,2,2019-04-15,"Business trip, Solo traveler, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+1005,7.5,Anonymous,United States of America,Good,1,2019-04-11,"Leisure trip, Couple, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1006,7.5,Anonymous,Spain,Good,2,2019-04-02,"Leisure trip, Couple, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1007,7.5,Anonymous,Australia,Good,3,2019-03-28,"Leisure trip, Group, Double Room with Two Double Beds, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1008,8.3,Anonymous,United Kingdom,Very Good,20,2019-03-23,"Business trip, Solo traveler, Queen Room, Stayed 4 nights",0.7800000000000001,0.9099999999999999,Positive
+1009,7.1,Anonymous,United States of America,Good,1,2019-03-17,"Leisure trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1010,7.1,Anonymous,United States of America,Good,1,2019-03-15,"Leisure trip, Solo traveler, Queen Room, Stayed 5 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1011,7.9,Anonymous,Belgium,Good,5,2019-02-27,"Leisure trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1012,8.3,Anonymous,United States of America,Very Good,2,2019-02-21,"Leisure trip, Solo traveler, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7800000000000001,0.9099999999999999,Positive
+1013,7.1,Anonymous,United States of America,Good,2,2019-02-07,"Business trip, Solo traveler, Queen Room, Stayed 1 night, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1014,6.3,Anonymous,North Macedonia,Pleasant,26,2019-01-21,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.9666666666666667,0.7333333333333333,Positive
+1015,8.8,Anonymous,Canada,Excellent,1,2019-01-17,"Business trip, Family with young children, Twin Room with Two Twin Beds, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+1016,7.1,Anonymous,United States of America,Good,1,2019-01-17,"Business trip, Solo traveler, Queen Room, Stayed 1 night",0.6000000000000001,0.7,Positive
+1017,7.5,Anonymous,United States of America,Good,1,2019-01-01,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1018,7.5,Anonymous,Brazil,Good,6,2018-12-27,"Leisure trip, Travelers with friends, Twin Room with Two Twin Beds, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1019,7.1,Anonymous,Australia,Good,4,2018-12-08,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1020,7.1,Anonymous,Austria,Good,11,2018-11-26,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1021,8.8,Anonymous,United Kingdom,Excellent,6,2018-11-11,"Leisure trip, Group, Twin Room with Two Twin Beds, Stayed 3 nights, Submitted from a mobile device",1.0,1.0,Positive
+1022,7.9,Anonymous,Japan,Good,1,2018-11-09,"Business trip, Solo traveler, Double Room with Two Double Beds, Stayed 2 nights",0.6000000000000001,0.7,Positive
+1023,7.1,Anonymous,United States of America,Good,15,2018-11-07,"Leisure trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",0.6000000000000001,0.7,Positive
+1024,4.6,Anonymous,Spain,Disappointing,5,2018-09-18,"Leisure trip, Couple, Queen Room, Stayed 3 nights, Submitted from a mobile device",0.7,-0.6,Negative
+1025,9.6,Anonymous,United States of America,Exceptional,1,2018-09-15,"Leisure trip, Couple, Queen Room, Stayed 6 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+1026,10.0,Anonymous,Philippines,Exceptional,1,2018-09-14,"Leisure trip, Couple, Queen Room, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+1027,9.2,Anonymous,Ireland,Awesome,8,2018-08-22,"Leisure trip, Couple, Queen Room, Stayed 4 nights, Submitted from a mobile device",1.0,1.0,Positive
+1028,10.0,Anonymous,United States of America,Exceptional,8,2018-08-21,"Business trip, Solo traveler, Queen Room, Stayed 2 nights, Submitted from a mobile device",1.0,0.6666666666666666,Positive
+1029,10.0,Anonymous,United States of America,Exceptional,1,2018-08-13,"Leisure trip, Family with young children, Twin Room with Two Twin Beds, Stayed 1 night, Submitted from a mobile device",1.0,0.6666666666666666,Positive
