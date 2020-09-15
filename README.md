@@ -62,7 +62,7 @@ Hotel Beresford needs to improve hotel guest satisfaction by providing friendlie
 All the visualizations provided in the exploratory data analysis as well as the pyLDAvis interactive visualization would help the hotel manager to further understand what most popular topics within the negative reviews are and make improvements accordingly.
 
 ## Future Work
-A lot of the analysis are limited due to the size of the scraped data. Many reviews were not scraped if they are not written in English. Maybe trying to scrape reviews in other languages and translate the scraped reviews or scrape after translation would help to increase the data volume.
+A lot of the analysis are limited due to the size of the scraped data. Non-English reviews were not scraped. Maybe trying to scrape reviews in other languages and translate the scraped reviews or scrape after translation would help to increase the data volume.
 
 To provide more useful suggestions to Hotel Beresford, we may also conduct analysis of its competitors to gain insights of guest preferences as well as valuable information that Hotel Beresford may not get from its own reviews.
 
