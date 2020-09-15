@@ -7,9 +7,11 @@ Web Scraping, Sentiment Analysis, Latent Dirichlet Allocation (LDA) topic modell
 2. [Project Overview](#Project-Overview)
 3. [Problem Statement](#Problem-Statement)
 4. [Methodologies](#Methodologies)
-5. [Data Description](#Data-Description)
-6. [Results](#Results)
-7. [Blog Post](#Blog-Post)
+5. [Metrics](#Metrics)
+6. [File Description](#File-Description)
+7. [Results](#Results)
+8. [Future Work](#Future-Work)
+9. [Blog Post](#Blog-Post)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
@@ -36,24 +38,33 @@ The sentiment analysis helps to classify the polarity and subjectivity of the ov
 5) **LDA Topic Model:**
 In natural language processing, the latent Dirichlet allocation is a generative statistical model that allows sets of observations to be explained by unobserved groups that explain why some parts of the data are similar. I used GridSearch to find the best topic model. The two tuning parameters are: (1) n_components: number of topics and (2) learning_decay (which controls the learning rate)
 
-## Data Description
-I scraped the data from the hotel review page: https://www.booking.com/reviews/us/hotel/beresford.html?
+## Metrics
+I used the log-likelihood score to evaluate the model performance. A model with higher log-likelihood and lower perplexity is considered to be a good model.
+However, perplexity might not be the best measure to evaluate topic models because it doesn’t consider the context and semantic associations between words. 
 
-The scraped data are stored under 3 dataframes:
-1) **reviewer_info**: Basic information of the reviewer and reviews:
-    * Rating Score
-    * Reviewer Name
-    * Reviewer's Nationality
-    * Overall Review (contains both positive & negative reviews)
-    * Reviewer Reviewed Times
-    * Review Date
-    * Review Tags (Trip type, such as business trip, leisure trip, etc.)
-2) **pos_reviews**: Positive reviews
-3) **neg_reviews**: Negative reviews
+## File Description
+* "Scraped Data" Folder contains the data scraped from the hotel review page: https://www.booking.com/reviews/us/hotel/beresford.html?
+   * The scraped data are stored under 3 dataframes:
+      1) **reviewer_info**: Basic information of the reviewer and reviews:
+          * Rating Score
+          * Reviewer Name
+          * Reviewer's Nationality
+          * Overall Review (contains both positive & negative reviews)
+          * Reviewer Reviewed Times
+          * Review Date
+          * Review Tags (Trip type, such as business trip, leisure trip, etc.)
+      2) **pos_reviews**: Positive reviews
+      3) **neg_reviews**: Negative reviews
+* "Capstone_Project.ipynb" contains the code, visualizations and analyses on the Hotel Reviews.
 
 ## Results
 Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
 All the visualizations provided in the exploratory data analysis as well as the pyLDAvis interactive visualization would help the hotel manager to further understand what most popular topics within the negative reviews are and make improvements accordingly.
+
+## Future Work
+A lot of the analysis are limited due to the size of the scraped data. Many reviews were not scraped if they are not written in English. Maybe trying to scrape reviews in other languages and translate the scraped reviews or scrape after translation would help to increase the data volume.
+
+To provide more useful suggestions to Hotel Beresford, we may also conduct analysis of its competitors to gain insights of guest preferences as well as valuable information that Hotel Beresford may not get from its own reviews.
 
 ## Blog Post
 If you are interested in reading my blog post about this project, please visit [Medium](https://medium.com/@jwbusiness123/sentiment-analysis-topic-modeling-for-hotel-reviews-6b83653f5b08?source=friends_link&sk=6bb2c73a2cfc5045ae528c9a5e823ceb)
