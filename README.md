@@ -11,7 +11,6 @@ Web Scraping, Sentiment Analysis, Latent Dirichlet Allocation (LDA) topic modell
 6. [File Description](#File-Description)
 7. [Results](#Results)
 8. [Future Work](#Future-Work)
-9. [Blog Post](#Blog-Post)
 
 ## Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. 
@@ -58,14 +57,12 @@ However, perplexity might not be the best measure to evaluate topic models becau
 * "Capstone_Project.ipynb" contains the code, visualizations and analyses on the Hotel Reviews.
 
 ## Results
-Hotel Beresford needs to improve hotel guest satisfaction by providing friendlier services and work on issues related to soundproofing, air conditioning, shower system and parking. The hotel also need to work on improving guests satisfaction towards the breakfast they provide, maybe coffee or pastries as appeared in the WordCloud.  
-All the visualizations provided in the exploratory data analysis as well as the pyLDAvis interactive visualization would help the hotel manager to further understand what most popular topics within the negative reviews are and make improvements accordingly.
+The main findings of the code can be found at the post available [here](https://medium.com/@jwbusiness123/sentiment-analysis-topic-modeling-for-hotel-reviews-6b83653f5b08?source=friends_link&sk=6bb2c73a2cfc5045ae528c9a5e823ceb)
+.
 
 ## Future Work
 A lot of the analyses are limited due to the size of the scraped data. Non-English reviews were not scraped. Maybe trying to scrape reviews in other languages and translate the scraped reviews or scrape after translation would help to increase the data volume.
 
 To provide more useful suggestions to Hotel Beresford, we may also conduct analysis of its competitors to gain insights of guest preferences as well as valuable information that Hotel Beresford may not get from its own reviews.
 
-## Blog Post
-If you are interested in reading my blog post about this project, please visit [Medium](https://medium.com/@jwbusiness123/sentiment-analysis-topic-modeling-for-hotel-reviews-6b83653f5b08?source=friends_link&sk=6bb2c73a2cfc5045ae528c9a5e823ceb)
 
