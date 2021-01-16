@@ -66,5 +66,5 @@ A lot of the analyses are limited due to the size of the scraped data. Non-Engli
 To provide more useful suggestions to Hotel Beresford, we may also conduct analysis of its competitors to gain insights of guest preferences as well as valuable information that Hotel Beresford may not get from its own reviews.
 
 ## Acknolowledgements
-Must give credit to my college friend, Lanyu Yu, who contributed the script for the web scraping. 
+Must give credit to my college friend, Lanyu Yu, who contributed partial script for the web scraping section. 
 
